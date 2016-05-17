@@ -1,6 +1,8 @@
 # HOSTS
 HOSTS files can help protect educational environments from inappropriate materials online.
 
+Michael McMahon
+
 The goal is to only allow games on Fridays while keeping a generally safe environment for children.  Creative projects should be made Monday-Thursday.
 
 WARNING: I use this in addition to a content filter.  This is not complete and does not claim to be.
