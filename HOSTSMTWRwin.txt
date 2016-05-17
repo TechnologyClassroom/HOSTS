@@ -6,11 +6,24 @@
 ##
 
 # FRIDAY ONLY Games
-# Search terms: Friv, juegos, jogos, games, y8, kizi, returnman, agame, coolmath, yepi, play, and combinations of those, girl games, super mario games, elsa games (7p), flash games (9 pages), dress up games (7p), friv kizi juegos yepi (4p), princess games (6p), hello kitty games (, iron spider games (5p), virtual driving games, ben 10 games (4p), unity games online, shockwave games, candy games, bmx games, flash games (9 pages), angry birds, "1..9999games"
+# Search terms: Friv, juegos, jogos, games, y8, kizi, returnman, agame, coolmath, yepi, play, and combinations of those, girl games, super mario games, elsa games (7 pages), flash games (9), dress up games (7p), friv kizi juegos yepi (4p), princess games (6p), hello kitty games, iron spider games (5p), virtual driving games, ben 10 games (4p), unity games online, shockwave games, candy games, bmx games, flash games (9p), io games, angry birds, and "1..9999games"
 #127.0.0.1	pbskids.org
 #127.0.0.1	www.sheppardsoftware.com
 127.0.0.1	www.box10com.net
 127.0.0.1	www.gamesmicro.com
+127.0.0.1 slither.io
+127.0.0.1 wings.io
+127.0.0.1 vertix.io
+127.0.0.1 warball.io
+127.0.0.1 chopcoin.io
+127.0.0.1 cardgames.io
+127.0.0.1 diep.io
+127.0.0.1 www.gameskinny.com
+127.0.0.1 blong.io
+127.0.0.1 agariom.net
+127.0.0.1 slitheriogameplay.com
+127.0.0.1 cursors.io
+127.0.0.1 vanar.io
 127.0.0.1	run2unblocked
 127.0.0.1	en.agar.bio
 127.0.0.1	www.newarcade.net
@@ -2074,6 +2087,7 @@
 127.0.0.1	account.swtor.com
 127.0.0.1	aeon-hotel.net
 127.0.0.1	agar.bz
+127.0.0.1 agarabi.com
 127.0.0.1	agario.us
 127.0.0.1	agariom.net
 127.0.0.1	agarioprivate.net
@@ -2119,6 +2133,7 @@
 127.0.0.1	electro-hotel.co.uk
 127.0.0.1	elentrix.us
 127.0.0.1	elitehotel.co
+127.0.0.1 elites.io
 127.0.0.1	empire.goodgamestudios.com
 127.0.0.1	es.3.alphawars.com
 127.0.0.1	eubbo.org
@@ -2322,6 +2337,7 @@
 127.0.0.1	wubbo.org
 127.0.0.1	www.agar35.com
 127.0.0.1	www.agariogames.com
+127.0.0.1 www.agariot.com
 127.0.0.1	www.agarturkpvp.com
 127.0.0.1	www.ageofwushu.com
 127.0.0.1	www.allgirlarcade.com
