@@ -12,6 +12,15 @@
 #127.0.0.1	www.sheppardsoftware.com
 127.0.0.1	www.box10com.net
 127.0.0.1	www.gamesmicro.com
+127.0.0.1	www.gamesdone.com
+127.0.0.1	www.playrific.com
+127.0.0.1	www.redball6.com
+127.0.0.1	playfizz.com
+127.0.0.1	coolkidsgames.net
+127.0.0.1	www.wzby.com
+127.0.0.1	ludumdare.com
+127.0.0.1	www.knowledgeadventure.com
+127.0.0.1	www.smbgames.com
 127.0.0.1	www.classicgamesarcade.com
 127.0.0.1	slither.io
 127.0.0.1	wings.io
@@ -1742,6 +1751,10 @@
 
 # FRIDAY ONLY Minecraft Sites
 127.0.0.1	*.minecraft.net # Still doesn't work...
+127.0.0.1	minecraftgameonline.com
+127.0.0.1	playminicraft.com
+127.0.0.1	resourcepack.net
+127.0.0.1	media.mojang.com
 127.0.0.1	23.21.227.220
 127.0.0.1	account.mojang.com
 127.0.0.1	assets.minecraft.net
