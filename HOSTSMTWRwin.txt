@@ -1,5 +1,6 @@
 ##
 # Host Database # Updated 20160403
+# Michael McMahon
 #
 # localhost is used to configure the loopback interface
 # when the system is booting.  Do not change this entry.
@@ -11,6 +12,7 @@
 #127.0.0.1	www.sheppardsoftware.com
 127.0.0.1	www.box10com.net
 127.0.0.1	www.gamesmicro.com
+127.0.0.1	www.classicgamesarcade.com
 127.0.0.1	slither.io
 127.0.0.1	wings.io
 127.0.0.1	vertix.io
