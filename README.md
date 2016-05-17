@@ -1,7 +1,9 @@
 # HOSTS
 HOSTS files can help protect educational environments from inappropriate materials online.
 
-The goal is to only allow games on Fridays.  Creative projects should be made Monday-Thursday.
+The goal is to only allow games on Fridays while keeping a generally safe environment for children.  Creative projects should be made Monday-Thursday.
+
+WARNING: I use this in addition to a content filter.  This is not complete and does not claim to be.
 
 There are four main types of files here.
   * F files allow games.
