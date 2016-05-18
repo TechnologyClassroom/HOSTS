@@ -2674,6 +2674,7 @@
 127.0.0.1	unblock-your-school.weebly.com
 127.0.0.1	unblocked-games-2014.weebly.com
 127.0.0.1	unblocked-games-pro.weebly.com
+127.0.0.1	unblocked-weebly.com
 127.0.0.1	unblocked720.weebly.com
 127.0.0.1	unblockedgames-4-u.weebly.com
 127.0.0.1	unblockedgames10.com
@@ -3420,6 +3421,7 @@
 127.0.0.1	bot.jlynx.net
 127.0.0.1	broswerfailure.xyz
 127.0.0.1	cdn.filmon-ads.com
+127.0.0.1	cgurrkser.com
 127.0.0.1	chrome-my.updatebrowse.com
 127.0.0.1	click.sportsreviews.com
 127.0.0.1	clicks.bestqualitysearch.com
@@ -3431,6 +3433,7 @@
 127.0.0.1	download.fromdoctopdf.com
 127.0.0.1	download.howtosimplified.com
 127.0.0.1	downloadzipfree.com
+127.0.0.1	ehrth.com
 127.0.0.1	filter.onwardclick.com
 127.0.0.1	firewall-security-alert.1-dx23e-error.com
 127.0.0.1	free-mac-download.org
@@ -3454,6 +3457,7 @@
 127.0.0.1	jorber.org
 127.0.0.1	kaboho.com
 127.0.0.1	kraft.promo.eprize.com
+127.0.0.1	ldugkh.com
 127.0.0.1	loadfasterplease.com
 127.0.0.1	lp.baboom.audio
 127.0.0.1	luxyad.com
