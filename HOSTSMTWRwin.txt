@@ -96,6 +96,7 @@
 127.0.0.1	atari.com
 127.0.0.1	audigames.com
 127.0.0.1	awky.com
+127.0.0.1	axisgamesonline.com
 127.0.0.1	baby-barbie.goldhairgames.com
 127.0.0.1	baby-bathing.goldhairgames.com
 127.0.0.1	baby-doctor.goldhairgames.com
@@ -169,7 +170,6 @@
 127.0.0.1	bow.friv.asia
 127.0.0.1	bow.newy8games.com
 127.0.0.1	bow.ubala.com
-127.0.0.1	box10-games.game37.net
 127.0.0.1	box10-games.game37.net
 127.0.0.1	boy-dress-up.gamesxl.com
 127.0.0.1	boy.friv.asia
@@ -294,7 +294,6 @@
 127.0.0.1	elouai.com
 127.0.0.1	elsagames.com
 127.0.0.1	elsagames.dressupgames8.com
-127.0.0.1	en.agar.bio
 127.0.0.1	en.agar.bio
 127.0.0.1	en.gameslol.net
 127.0.0.1	escape-other.gamesxl.com
@@ -727,7 +726,6 @@
 127.0.0.1	run-3.net
 127.0.0.1	run-a-company.gamesxl.com
 127.0.0.1	run2unblocked
-127.0.0.1	run2unblocked
 127.0.0.1	run3.net
 127.0.0.1	running.friv.asia
 127.0.0.1	running.newy8games.com
@@ -960,6 +958,7 @@
 127.0.0.1	www.arcadescool.com
 127.0.0.1	www.arcadespidermangames.info
 127.0.0.1	www.arcadeyum.com
+127.0.0.1	www.axisfootballleague.net
 127.0.0.1	www.azaleasdolls.com
 127.0.0.1	www.azu.com
 127.0.0.1	www.baby-games.com
@@ -992,7 +991,6 @@
 127.0.0.1	www.bmxgames247.com
 127.0.0.1	www.bmxthegame.com
 127.0.0.1	www.box10.eu
-127.0.0.1	www.box10com.net
 127.0.0.1	www.box10com.net
 127.0.0.1	www.boxhead2play.info
 127.0.0.1	www.boy-games.net
@@ -1036,7 +1034,6 @@
 127.0.0.1	www.curiousgeorge.com
 127.0.0.1	www.cutezee.com
 127.0.0.1	www.dabidoo.com
-127.0.0.1	www.dailyfreegames.com
 127.0.0.1	www.dailyfreegames.com
 127.0.0.1	www.dailygames.com
 127.0.0.1	www.dailyhaha.com
@@ -1242,12 +1239,9 @@
 127.0.0.1	www.gamesheep.com
 127.0.0.1	www.gameshero.com
 127.0.0.1	www.gameskinny.com
-127.0.0.1	www.gameskinny.com
 127.0.0.1	www.gameslist.com
 127.0.0.1	www.gameslol.net
 127.0.0.1	www.gamesloon.com
-127.0.0.1	www.gamesmicro.com
-127.0.0.1	www.gamesmicro.com
 127.0.0.1	www.gamesmicro.com
 127.0.0.1	www.gamesonly.com
 127.0.0.1	www.gamespot.com
@@ -1483,7 +1477,6 @@
 127.0.0.1	www.netdoppler.com
 127.0.0.1	www.newagame.com
 127.0.0.1	www.newarcade.net
-127.0.0.1	www.newarcade.net
 127.0.0.1	www.newgamesy3.com
 127.0.0.1	www.newgrounds.com
 127.0.0.1	www.neworleanssaints.com
@@ -1634,7 +1627,6 @@
 127.0.0.1	www.sporcle.com
 127.0.0.1	www.sportgamesarena.com
 127.0.0.1	www.sportgamey.com
-127.0.0.1	www.sportgamey.com
 127.0.0.1	www.sproutonline.com
 127.0.0.1	www.squiglysplayhouse.com
 127.0.0.1	www.stardoll.com
@@ -1764,11 +1756,8 @@
 
 
 # FRIDAY ONLY Minecraft Sites
+127.0.0.1	*.minecraft.net
 127.0.0.1	*.minecraft.net # Still doesn't work...
-127.0.0.1	minecraftgameonline.com
-127.0.0.1	playminicraft.com
-127.0.0.1	resourcepack.net
-127.0.0.1	media.mojang.com
 127.0.0.1	23.21.227.220
 127.0.0.1	account.mojang.com
 127.0.0.1	assets.minecraft.net
@@ -1778,14 +1767,18 @@
 127.0.0.1	launcher.mojang.com
 127.0.0.1	login.minecraft.net
 127.0.0.1	mcupdate.tumblr.com
+127.0.0.1	media.mojang.com
 127.0.0.1	minecraft.gamepedia.com
 127.0.0.1	minecraft.net
 127.0.0.1	minecraft.novaskin.me
 127.0.0.1	minecraftcommand.science
+127.0.0.1	minecraftgameonline.com
 127.0.0.1	minecraftskins.com
 127.0.0.1	minecraftzoxy.club
 127.0.0.1	minenoob.weebly.com
 127.0.0.1	mojang.com
+127.0.0.1	playminicraft.com
+127.0.0.1	resourcepack.net
 127.0.0.1	session.minecraft.net
 127.0.0.1	skindex.com
 127.0.0.1	www.1fungames.com
@@ -1877,6 +1870,8 @@
 127.0.0.1	giftlix.com
 127.0.0.1	googleads.g.doubleclick.net
 127.0.0.1	goto.fumotrax.com
+127.0.0.1	ie.gamespipe.com
+127.0.0.1	ie.gamespipe.net
 127.0.0.1	internetinfluences.com
 127.0.0.1	media.onads.com
 127.0.0.1	mediabak.com
@@ -1887,6 +1882,7 @@
 127.0.0.1	s.admtpmp124.com
 127.0.0.1	searchsmarts.net
 127.0.0.1	securegg.biotrust.com
+127.0.0.1	server.cpmstar.com
 127.0.0.1	smokik.com
 127.0.0.1	spinandwin.com-nav.net
 127.0.0.1	sponsoredweblinks.com
@@ -1903,11 +1899,14 @@
 127.0.0.1	www.cgstatic.info
 127.0.0.1	www.coupons.com
 127.0.0.1	www.dailycoupondeal.com
+127.0.0.1	www.epicgameads.com
+127.0.0.1	www.gamefuse.com
 127.0.0.1	www.gamerhippo.com
 127.0.0.1	www.inboxdollars.com
 127.0.0.1	www.kabbage.com
 127.0.0.1	www.lifescript.com
 127.0.0.1	www.mammothshopper.com
+127.0.0.1	www.offergalaxy.com
 127.0.0.1	www.research.net
 127.0.0.1	www.salesforce.com
 127.0.0.1	www.searchdeliver.com
@@ -2008,7 +2007,7 @@
 
 
 
-# Expensive stores targeting kids
+# Expensive stores for kids
 127.0.0.1	secure.poptropica.com
 127.0.0.1	store.nike.com
 127.0.0.1	www.nike.com
@@ -2025,16 +2024,6 @@
 
 # File Sharing
 127.0.0.1	www.filesfrog.com
-
-
-
-# Game Ads
-127.0.0.1	ie.gamespipe.com
-127.0.0.1	ie.gamespipe.net
-127.0.0.1	server.cpmstar.com
-127.0.0.1	www.epicgameads.com
-127.0.0.1	www.gamefuse.com
-127.0.0.1	www.offergalaxy.com
 
 
 
@@ -2663,6 +2652,7 @@
 127.0.0.1	ultimatenaruto.org
 127.0.0.1	unblckdgms.blogspot.com
 127.0.0.1	unblock-your-school.weebly.com
+127.0.0.1	unblocked-games-2014.weebly.com
 127.0.0.1	unblocked-games-pro.weebly.com
 127.0.0.1	unblocked720.weebly.com
 127.0.0.1	unblockedgames-4-u.weebly.com
@@ -2840,9 +2830,9 @@
 127.0.0.1	blindgossip.com
 127.0.0.1	bossip.com
 127.0.0.1	cn.mediamass.net
+127.0.0.1	de.mediamass.net
 127.0.0.1	en.mediamass.net
 127.0.0.1	es.mediamass.net
-127.0.0.1	de.mediamass.net
 127.0.0.1	fr.mediamass.net
 127.0.0.1	gossiponthis.com
 127.0.0.1	hellobeautiful.com
@@ -2932,6 +2922,7 @@
 127.0.0.1	www.adnetworkperformance.com
 127.0.0.1	www.agario.com.tr
 127.0.0.1	www.ashleymadison.com
+127.0.0.1	www.bing.com # Allows pornographic video streaming through the search engine
 127.0.0.1	www.camra.org.uk
 127.0.0.1	www.deeznuts.com
 127.0.0.1	www.dirtybit.com
@@ -3350,7 +3341,6 @@
 127.0.0.1	vimeo.com
 127.0.0.1	vine.co
 127.0.0.1	www.abc.com
-127.0.0.1	www.bing.com # Allows pornographic video streaming through the search engine
 127.0.0.1	www.ddotomen.com
 127.0.0.1	www.hulu.com
 127.0.0.1	www.mavitv.com
@@ -3518,8 +3508,8 @@
 127.0.0.1	www.ok5xoil.com
 127.0.0.1	www.osx-error.com
 127.0.0.1	www.rawkfroggy.co
-127.0.0.1	www.search.com # This search engine is usually set by adware
 127.0.0.1	www.s9a13szm.com # Picture with embedded Malware
+127.0.0.1	www.search.com # This search engine is usually set by adware
 127.0.0.1	www.soft32.com
 127.0.0.1	www.sportsreviews.com
 127.0.0.1	www.surveysandpromotionsonline.com
