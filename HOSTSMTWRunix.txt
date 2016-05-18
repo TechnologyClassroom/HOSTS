@@ -5,6 +5,7 @@
 # localhost is used to configure the loopback interface.
 # Loopbacks can redirect the domain to the IP address of your choosing.
 # 127.0.0.1	goes nowhere.
+# DEBUG LINE
 ##
 
 # FRIDAY ONLY Games
