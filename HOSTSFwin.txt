@@ -1,8 +1,10 @@
 ##
-# Host Database # Updated 20160403
+# Host Database # Updated 20160517
+# Michael McMahon
 #
-# localhost is used to configure the loopback interface
-# when the system is booting.  Do not change this entry.
+# localhost is used to configure the loopback interface.
+# Loopbacks can redirect the domain to the IP address of your choosing.
+# 127.0.0.1	goes nowhere.
 ##
 
 # MTWR ONLY Poptropica Cheats
@@ -129,6 +131,8 @@
 127.0.0.1	giftlix.com
 127.0.0.1	googleads.g.doubleclick.net
 127.0.0.1	goto.fumotrax.com
+127.0.0.1	ie.gamespipe.com
+127.0.0.1	ie.gamespipe.net
 127.0.0.1	internetinfluences.com
 127.0.0.1	media.onads.com
 127.0.0.1	mediabak.com
@@ -139,6 +143,7 @@
 127.0.0.1	s.admtpmp124.com
 127.0.0.1	searchsmarts.net
 127.0.0.1	securegg.biotrust.com
+127.0.0.1	server.cpmstar.com
 127.0.0.1	smokik.com
 127.0.0.1	spinandwin.com-nav.net
 127.0.0.1	sponsoredweblinks.com
@@ -155,11 +160,14 @@
 127.0.0.1	www.cgstatic.info
 127.0.0.1	www.coupons.com
 127.0.0.1	www.dailycoupondeal.com
+127.0.0.1	www.epicgameads.com
+127.0.0.1	www.gamefuse.com
 127.0.0.1	www.gamerhippo.com
 127.0.0.1	www.inboxdollars.com
 127.0.0.1	www.kabbage.com
 127.0.0.1	www.lifescript.com
 127.0.0.1	www.mammothshopper.com
+127.0.0.1	www.offergalaxy.com
 127.0.0.1	www.research.net
 127.0.0.1	www.salesforce.com
 127.0.0.1	www.searchdeliver.com
@@ -260,7 +268,7 @@
 
 
 
-# Expensive stores targeting kids
+# Expensive stores for kids
 127.0.0.1	secure.poptropica.com
 127.0.0.1	store.nike.com
 127.0.0.1	www.nike.com
@@ -277,16 +285,6 @@
 
 # File Sharing
 127.0.0.1	www.filesfrog.com
-
-
-
-# Game Ads
-127.0.0.1	ie.gamespipe.com
-127.0.0.1	ie.gamespipe.net
-127.0.0.1	server.cpmstar.com
-127.0.0.1	www.epicgameads.com
-127.0.0.1	www.gamefuse.com
-127.0.0.1	www.offergalaxy.com
 
 
 
@@ -368,6 +366,7 @@
 127.0.0.1	account.swtor.com
 127.0.0.1	aeon-hotel.net
 127.0.0.1	agar.bz
+127.0.0.1	agarabi.com
 127.0.0.1	agario.us
 127.0.0.1	agariom.net
 127.0.0.1	agarioprivate.net
@@ -413,6 +412,7 @@
 127.0.0.1	electro-hotel.co.uk
 127.0.0.1	elentrix.us
 127.0.0.1	elitehotel.co
+127.0.0.1	elites.io
 127.0.0.1	empire.goodgamestudios.com
 127.0.0.1	es.3.alphawars.com
 127.0.0.1	eubbo.org
@@ -616,6 +616,7 @@
 127.0.0.1	wubbo.org
 127.0.0.1	www.agar35.com
 127.0.0.1	www.agariogames.com
+127.0.0.1	www.agariot.com
 127.0.0.1	www.agarturkpvp.com
 127.0.0.1	www.ageofwushu.com
 127.0.0.1	www.allgirlarcade.com
@@ -663,6 +664,7 @@
 127.0.0.1	www.marvelheroes.com
 127.0.0.1	www.meez.com
 127.0.0.1	www.megirl.com
+127.0.0.1	www.miniclipunblocked.com
 127.0.0.1	www.mmobomb.com
 127.0.0.1	www.mmorpg.com
 127.0.0.1	www.monkeyquest.com
@@ -753,6 +755,7 @@
 127.0.0.1	bomb.friv.asia
 127.0.0.1	bomb.newy8games.com
 127.0.0.1	bomb.ubala.com
+127.0.0.1	box-head2.com
 127.0.0.1	boxing.friv.asia
 127.0.0.1	boxing.newy8games.com
 127.0.0.1	boxing.ubala.com
@@ -910,6 +913,7 @@
 127.0.0.1	ultimatenaruto.org
 127.0.0.1	unblckdgms.blogspot.com
 127.0.0.1	unblock-your-school.weebly.com
+127.0.0.1	unblocked-games-2014.weebly.com
 127.0.0.1	unblocked-games-pro.weebly.com
 127.0.0.1	unblocked720.weebly.com
 127.0.0.1	unblockedgames-4-u.weebly.com
@@ -920,6 +924,7 @@
 127.0.0.1	unblockedgameszone.com
 127.0.0.1	undead.newy8games.com
 127.0.0.1	undead.ubala.com
+127.0.0.1	vertix.io
 127.0.0.1	violence.friv.asia
 127.0.0.1	vuigame.vn
 127.0.0.1	war.friv.asia
@@ -1085,15 +1090,23 @@
 127.0.0.1	allnight.com
 127.0.0.1	blindgossip.com
 127.0.0.1	bossip.com
+127.0.0.1	cn.mediamass.net
+127.0.0.1	de.mediamass.net
+127.0.0.1	en.mediamass.net
+127.0.0.1	es.mediamass.net
+127.0.0.1	fr.mediamass.net
 127.0.0.1	gossiponthis.com
 127.0.0.1	hellobeautiful.com
 127.0.0.1	hollywoodlife.com
+127.0.0.1	it.mediamass.net
 127.0.0.1	jezebel.com
 127.0.0.1	madamenoire.com
+127.0.0.1	mediamass.net
 127.0.0.1	mediatakeout.com
 127.0.0.1	okmagazine.com
 127.0.0.1	paid.outbrain.com
 127.0.0.1	perezhilton.com
+127.0.0.1	pt.mediamass.net
 127.0.0.1	rapdose.com
 127.0.0.1	styleblazer.com
 127.0.0.1	thyblackman.com
@@ -1141,8 +1154,10 @@
 127.0.0.1	bot.jlynx.net
 127.0.0.1	broswerfailure.xyz
 127.0.0.1	chaturbate.com
+127.0.0.1	corn-hub.blogspot.com
 127.0.0.1	deeznutshardcore.com
 127.0.0.1	donowbrownwow.com
+127.0.0.1	forum.dancehallreggae.com
 127.0.0.1	free-sex-locator.com
 127.0.0.1	free-xxx-games.com
 127.0.0.1	free.aultxcamz.com
@@ -1160,6 +1175,7 @@
 127.0.0.1	onlinepctuner.com
 127.0.0.1	pubted.com
 127.0.0.1	secure.blackwetandluscious
+127.0.0.1	supersexykernels.blogspot.com
 127.0.0.1	thechive.com
 127.0.0.1	videopuginupdates.net
 127.0.0.1	winsecurity247.com
@@ -1167,6 +1183,7 @@
 127.0.0.1	www.adnetworkperformance.com
 127.0.0.1	www.agario.com.tr
 127.0.0.1	www.ashleymadison.com
+127.0.0.1	www.bing.com # Allows pornographic video streaming through the search engine
 127.0.0.1	www.camra.org.uk
 127.0.0.1	www.deeznuts.com
 127.0.0.1	www.dirtybit.com
@@ -1585,7 +1602,6 @@
 127.0.0.1	vimeo.com
 127.0.0.1	vine.co
 127.0.0.1	www.abc.com
-127.0.0.1	www.bing.com # Allows pornographic video streaming through the search engine
 127.0.0.1	www.ddotomen.com
 127.0.0.1	www.hulu.com
 127.0.0.1	www.mavitv.com
@@ -1598,6 +1614,8 @@
 127.0.0.1	www.veoh.com
 127.0.0.1	www.vevo.com
 127.0.0.1	www.viz.com
+127.0.0.1	www.worldstarhiphop.com
+127.0.0.1	www.youtube.com
 127.0.0.1	xfinity.comcast.net
 127.0.0.1	youtube.com
 
@@ -1752,6 +1770,7 @@
 127.0.0.1	www.osx-error.com
 127.0.0.1	www.rawkfroggy.co
 127.0.0.1	www.s9a13szm.com # Picture with embedded Malware
+127.0.0.1	www.search.com # This search engine is usually set by adware
 127.0.0.1	www.soft32.com
 127.0.0.1	www.sportsreviews.com
 127.0.0.1	www.surveysandpromotionsonline.com
@@ -1777,3 +1796,191 @@
 
 # Wrestling
 127.0.0.1	www.wrestlezone.com
+
+
+
+# Microsoft spyware, tracking, data mining, ads, Windows 10, etc.
+127.0.0.1	0.r.msn.com
+127.0.0.1	ac3.msn.com
+127.0.0.1	act-3-blu.mesh.com
+127.0.0.1	activesync.glbdns2.microsoft.com
+127.0.0.1	ad.doubleclick.net
+127.0.0.1	ads.eu.msn.com
+127.0.0.1	ads.msn.com
+127.0.0.1	ads.msn.com.nsatc.net
+127.0.0.1	ads1.msads.net
+127.0.0.1	ads1.msn.com
+127.0.0.1	ads2.msn.com
+127.0.0.1	ads2.msn.com.c.footprint.net
+127.0.0.1	adsmockarc.azurewebsites.net
+127.0.0.1	adsyndication.msn.com
+127.0.0.1	aidps.atdmt.com
+127.0.0.1	aidps.msn.com.nsatc.net
+127.0.0.1	aka-cdn-ns.adtech.de
+127.0.0.1	analytics.live.com
+127.0.0.1	analytics.microsoft.com
+127.0.0.1	analytics.msn.com
+127.0.0.1	analytics.r.msn.com
+127.0.0.1	appexmapsappupdate.blob.core.windows.net
+127.0.0.1	arc2.msn.com
+127.0.0.1	arc3.msn.com
+127.0.0.1	arc9.msn.com
+127.0.0.1	atlas.c10r.facebook.com
+127.0.0.1	auth.gfx.ms
+127.0.0.1	b.ads1.msn.com
+127.0.0.1	bat.bing.com
+127.0.0.1	bingads.microsoft.com
+127.0.0.1	bl3302.storage.skyprod.akadns.net
+127.0.0.1	blu.mobileads.msn.com
+127.0.0.1	bn1-2cd.wns.windows.com
+127.0.0.1	bn1cd.wns.windows.com
+127.0.0.1	bn1wns2011508.wns.windows.com
+127.0.0.1	bn2wns1.wns.windows.com
+127.0.0.1	bn2wns1b.wns.windows.com
+127.0.0.1	bs.eyeblaster.akadns.net
+127.0.0.1	bs.serving-sys.com
+127.0.0.1	c.atdmt.com
+127.0.0.1	c.atdmt.com.nsatc.net
+127.0.0.1	c.bing.com
+127.0.0.1	c.microsoft.com
+127.0.0.1	c.msn.com
+127.0.0.1	c.msn.com.nsatc.net
+127.0.0.1	c.ninemsn.com.au
+127.0.0.1	c.no.msn.com
+127.0.0.1	c1.microsoft.com
+127.0.0.1	cdn.atdmt.com
+127.0.0.1	cdn.content.prod.cms.msn.com
+127.0.0.1	cds26.ams9.msecn.net
+127.0.0.1	choice.microsoft.com
+127.0.0.1	choice.microsoft.com.nsatc.net
+127.0.0.1	cmsresources.windowsphone.com
+127.0.0.1	col.mobileads.msn.com
+127.0.0.1	compatexchange.cloudapp.net
+127.0.0.1	content.windows.microsoft.com
+127.0.0.1	corp.sts.microsoft.com
+127.0.0.1	corpext.msitadfs.glbdns2.microsoft.com
+127.0.0.1	cs1.wpc.v0cdn.net
+127.0.0.1	dart.l.doubleclick.net
+127.0.0.1	db3aqu.atdmt.com
+127.0.0.1	dc.services.visualstudio.com
+127.0.0.1	dev.virtualearth.net
+127.0.0.1	diagnostics.support.microsoft.akadns.net
+127.0.0.1	diagnostics.support.microsoft.com
+127.0.0.1	digg.analytics.live.com
+127.0.0.1	directory.services.live.com.akadns.net
+127.0.0.1	displaycatalog.md.mp.microsoft.com
+127.0.0.1	dl.delivery.mp.microsoft.com
+127.0.0.1	dmd.metaservices.microsoft.com
+127.0.0.1	download-ssl.msgamestudios.com
+127.0.0.1	ecn.dev.virtualearth.net
+127.0.0.1	en-us.appex-rf.msn.com
+127.0.0.1	fe2.update.microsoft.com.akadns.net
+127.0.0.1	fe3.delivery.dsp.mp.microsoft.com.nsatc.net
+127.0.0.1	fe3.delivery.mp.microsoft.com
+127.0.0.1	feedback.search.microsoft.com
+127.0.0.1	feedback.windows.com
+127.0.0.1	fesweb1.ch1d.binginternal.com
+127.0.0.1	ff4a487e56259f4bd5831e9e30470e83.azr.msnetworkanalytics.testanalytics.net
+127.0.0.1	flex.msn.com
+127.0.0.1	flex.msn.com.nsatc.net
+127.0.0.1	g.msn.com
+127.0.0.1	g.msn.com.nsatc.net
+127.0.0.1	geo-prod.do.dsp.mp.microsoft.com
+127.0.0.1	global.msads.net.c.footprint.net
+127.0.0.1	gmx.windows.com
+127.0.0.1	h1.msn.com
+127.0.0.1	h2.msn.com
+127.0.0.1	help.bingads.microsoft.com
+127.0.0.1	i1.services.social.microsoft.com
+127.0.0.1	i1.services.social.microsoft.com.nsatc.net
+127.0.0.1	inference.location.live.net
+127.0.0.1	js.microsoft.com
+127.0.0.1	lb1.www.ms.akadns.net
+127.0.0.1	licensing.md.mp.microsoft.com
+127.0.0.1	live.rads.msn.com
+127.0.0.1	livetileedge.dsx.mp.microsoft.com
+127.0.0.1	logging.windows.microsoft.com
+127.0.0.1	m.adnxs.com
+127.0.0.1	m.anycast.adnxs.com
+127.0.0.1	mediadiscovery.microsoft.com
+127.0.0.1	microsoft-hohm.com
+127.0.0.1	msftncsi.com
+127.0.0.1	msnbot-65-55-108-23.search.msn.com
+127.0.0.1	msnportal.112.2o7.net
+127.0.0.1	msntest.serving-sys.com
+127.0.0.1	onesettings-bn2.metron.live.com.nsatc.net
+127.0.0.1	onesettings-cy2.metron.live.com.nsatc.net
+127.0.0.1	onesettings-db5.metron.live.com.nsatc.net
+127.0.0.1	onesettings-hk2.metron.live.com.nsatc.net
+127.0.0.1	otf.msn.com
+127.0.0.1	popup.msn.com
+127.0.0.1	pre.footprintpredict.com
+127.0.0.1	rad.live.com
+127.0.0.1	rad.msn.com
+127.0.0.1	rad.msn.com.nsatc.net
+127.0.0.1	redir.metaservices.microsoft.com
+127.0.0.1	rmads.eu.msn.com
+127.0.0.1	rmads.msn.com
+127.0.0.1	rpt.rad.msn.com
+127.0.0.1	sb.scorecardresearch.com
+127.0.0.1	schemas.microsoft.akadns.net
+127.0.0.1	secure.adnxs.com
+127.0.0.1	secure.anycast.adnxs.com
+127.0.0.1	secure.flashtalking.com
+127.0.0.1	settings.data.microsoft.com
+127.0.0.1	settings-sandbox.data.glbdns2.microsoft.com
+127.0.0.1	settings-sandbox.data.microsoft.com
+127.0.0.1	settings-ssl.xboxlive.com
+127.0.0.1	settings-win.data.microsoft.com
+127.0.0.1	sgmetrics.cloudapp.net
+127.0.0.1	shell.windows.com
+127.0.0.1	siweb.microsoft.akadns.net
+127.0.0.1	skyapi.skyprod.akadns.net
+127.0.0.1	sls.update.microsoft.com
+127.0.0.1	sls.update.microsoft.com.akadns.net
+127.0.0.1	sls.update.microsoft.com.nsatc.net
+127.0.0.1	sO.2mdn.net
+127.0.0.1	spynet.microsoft.com
+127.0.0.1	spynet2.microsoft.com
+127.0.0.1	spynetalt.microsoft.com
+127.0.0.1	sqm.microsoft.com
+127.0.0.1	ssw.live.com
+127.0.0.1	ssw.live.com.nsatc.net
+127.0.0.1	static.2mdn.net
+127.0.0.1	static-2mdn-net.l.google.com
+127.0.0.1	statsfe1.ws.microsoft.com
+127.0.0.1	statsfe1.ws.microsoft.com.nsatc.net
+127.0.0.1	statsfe2.update.microsoft.com.akadns.net
+127.0.0.1	statsfe2.ws.microsoft.com
+127.0.0.1	statsfe2.ws.microsoft.com.nsatc.net
+127.0.0.1	storeedgefd.dsx.mp.microsoft.com
+127.0.0.1	support.msn.microsoft.akadns.net
+127.0.0.1	t0.ssl.ak.dynamic.tiles.virtualearth.net
+127.0.0.1	t0.ssl.ak.tiles.virtualearth.net
+127.0.0.1	telemetry.appex.bing.net
+127.0.0.1	telemetry.appex.search.prod.ms.akadns.net
+127.0.0.1	telemetry.microsoft.com
+127.0.0.1	tile-service.weather.microsoft.com
+127.0.0.1	tlu.dl.delivery.mp.microsoft.com
+127.0.0.1	udc.msn.com
+127.0.0.1	urs.microsoft.com
+127.0.0.1	version.hybrid.api.here.com
+127.0.0.1	view.atdmt.com
+127.0.0.1	vortex.data.microsoft.com
+127.0.0.1	vortex-bn2.metron.live.com.nsatc.net
+127.0.0.1	vortex-cy2.metron.live.com.nsatc.net
+127.0.0.1	vortex-hk2.metron.live.com.nsatc.net
+127.0.0.1	vortex-sandbox.data.glbdns2.microsoft.com
+127.0.0.1	vortex-sandbox.data.microsoft.com
+127.0.0.1	vortex-win.data.microsoft.com
+127.0.0.1	w3.b.cap-mii.net
+127.0.0.1	watson.live.com
+127.0.0.1	watson.microsoft.com
+127.0.0.1	watson.microsoft.com.nsatc.net
+127.0.0.1	watson.ppe.telemetry.microsoft.com
+127.0.0.1	watson.telemetry.microsoft.com
+127.0.0.1	watson.telemetry.microsoft.com.nsatc.net
+127.0.0.1	wes.df.telemetry.microsoft.com
+127.0.0.1	win10.ipv6.microsoft.com.nsatc.net
+127.0.0.1	www.modern.ie
+127.0.0.1	www.msftncsi.com
