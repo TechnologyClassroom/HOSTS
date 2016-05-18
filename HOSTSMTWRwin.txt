@@ -1,5 +1,5 @@
 ##
-# Host Database # Updated 20160517
+# Host Database # Updated 20160518
 # Michael McMahon
 #
 # localhost is used to configure the loopback interface.
@@ -32,6 +32,7 @@
 127.0.0.1	8bob.com
 127.0.0.1	8laps.com
 127.0.0.1	a.espncdn.com
+127.0.0.1	abcdeya.com
 127.0.0.1	abcya4kids.com
 127.0.0.1	account.xbox.com
 127.0.0.1	action-multiplayer.gamesxl.com
@@ -1185,6 +1186,7 @@
 127.0.0.1	www.funny-games.biz
 127.0.0.1	www.funnygames.ro
 127.0.0.1	www.fynsy.com
+127.0.0.1	www.g9y9.com
 127.0.0.1	www.gaiaonline.com
 127.0.0.1	www.gamebaby.la
 127.0.0.1	www.gamebaby.net
@@ -1928,6 +1930,7 @@
 127.0.0.1	artsicat13.deviantart.com
 127.0.0.1	chromeboxx.weebly.com
 127.0.0.1	creepypasta.wikia.com
+127.0.0.1	fivenightsatfreddysfull.com
 127.0.0.1	five-nights-at-freddys.en.malavida.com
 127.0.0.1	five-nights-at-freddys.en.softonic.com
 127.0.0.1	freddy-fazbears-pizza.wikia.com
@@ -2058,6 +2061,7 @@
 
 
 # Games with cheats
+127.0.0.1	www.07k7k.com
 127.0.0.1	agarhack.org
 127.0.0.1	hackedkingdomrush.com
 127.0.0.1	hackedmonster.com
@@ -2238,6 +2242,7 @@
 127.0.0.1	maplestory.nexon.net
 127.0.0.1	markofthethief.scholastic.com
 127.0.0.1	marvel-hotel.org
+127.0.0.1	mcupdate.tumblr.com
 127.0.0.1	mg.my.com
 127.0.0.1	minecraftgames.info
 127.0.0.1	mjwstc.game321.com
@@ -2317,6 +2322,7 @@
 127.0.0.1	swift-hotel.org
 127.0.0.1	swiftrp.tk
 127.0.0.1	talkgadget.google.com
+127.0.0.1	t.umblr.com
 127.0.0.1	tardis-hotel.com
 127.0.0.1	the39clues.scholastic.com
 127.0.0.1	thetruthsoul.netii.net
@@ -2465,8 +2471,10 @@
 
 # Games with inappropriate content
 # search fighting games, surgery games, blood games, gore games, killing games, happy wheels, get on top, tank trouble, unblocked games
+127.0.0.1	*box10com.net
 127.0.0.1	1-vs-1-fights.gamesxl.com
 127.0.0.1	198.57.204.55 # www.juegosipo.com
+127.0.0.1	3plazmaburst.com
 127.0.0.1	5xplay.com
 127.0.0.1	666games.net
 127.0.0.1	8shooter.com
@@ -2494,6 +2502,7 @@
 127.0.0.1	bomb.friv.asia
 127.0.0.1	bomb.newy8games.com
 127.0.0.1	bomb.ubala.com
+127.0.0.1	box-head.net
 127.0.0.1	box-head2.com
 127.0.0.1	boxing.friv.asia
 127.0.0.1	boxing.newy8games.com
@@ -2507,6 +2516,7 @@
 127.0.0.1	dumbwaystodie.com
 127.0.0.1	earntodie.com
 127.0.0.1	en.uptodown.com
+127.0.0.1	englishbanana.com
 127.0.0.1	farting.gamesxl.com
 127.0.0.1	fenglee.com
 127.0.0.1	fighting.newy8games.com
@@ -2522,6 +2532,7 @@
 127.0.0.1	gamehappywheels.com
 127.0.0.1	games.adultswim.com
 127.0.0.1	games.mi9.com
+127.0.0.1	games.victorz.ca
 127.0.0.1	gamesogood.com
 127.0.0.1	gametyrant.co
 127.0.0.1	gethappywheels.com
@@ -2536,6 +2547,7 @@
 127.0.0.1	happywheels.us.com
 127.0.0.1	happywheels8.com
 127.0.0.1	happywheelsaz.com
+127.0.0.1	happywheelsaz.net
 127.0.0.1	happywheelsez.com
 127.0.0.1	happywheelsfullgame.us
 127.0.0.1	instagr.in
@@ -2567,10 +2579,16 @@
 127.0.0.1	people.inf.elte.hu
 127.0.0.1	perfectworld.com
 127.0.0.1	pfreegames.com
+127.0.0.1	plazmaburst-2.org
+127.0.0.1	plazmabursthacked2.com
 127.0.0.1	play.inboxdollars.com
 127.0.0.1	playcanv.as
 127.0.0.1	playsnail.com
 127.0.0.1	playtides.com
+127.0.0.1	plazmaburst.net
+127.0.0.1	plazma-burst3.net
+127.0.0.1	plazmaburst2hacked.com
+127.0.0.1	plazmaburst-3.com
 127.0.0.1	plazma-burst2.com
 127.0.0.1	poki.com
 127.0.0.1	poopnugget.com
@@ -2621,6 +2639,7 @@
 127.0.0.1	supersmashflash-3.org
 127.0.0.1	supersmashflash123.com
 127.0.0.1	supersmashflash2a.com
+127.0.0.1	supersmashflash3x.net
 127.0.0.1	supersmashflash3x.org
 127.0.0.1	supersmashflash4x.com
 127.0.0.1	surgerygames.dressupgames8.com
@@ -2636,6 +2655,7 @@
 127.0.0.1	tanktrouble2.info
 127.0.0.1	tanktrouble2demo.com
 127.0.0.1	tanktrouble3.com
+127.0.0.1	tanktrouble3swf.com
 127.0.0.1	tanktroubleswf3.com
 127.0.0.1	tanktroubleunblocked.com
 127.0.0.1	terrorist.friv.asia
@@ -2673,12 +2693,14 @@
 127.0.0.1	withsix.com
 127.0.0.1	worldoftanks.com
 127.0.0.1	wraparstallym.blog.com
+127.0.0.1	www.2player.com
 127.0.0.1	www.4223.com
 127.0.0.1	www.80r.com
 127.0.0.1	www.9game.com
 127.0.0.1	www.a10.com
 127.0.0.1	www.acool.com
 127.0.0.1	www.aime.com
+127.0.0.1	www.andyslife.org
 127.0.0.1	www.arcadecake.com
 127.0.0.1	www.arcgames.com
 127.0.0.1	www.armorarcade.com
@@ -2720,6 +2742,7 @@
 127.0.0.1	www.gamebaby.com
 127.0.0.1	www.gamesbook.com
 127.0.0.1	www.gamesbox.com
+127.0.0.1	www.gamefudge.com
 127.0.0.1	www.gamewall.net
 127.0.0.1	www.girlgames1.com
 127.0.0.1	www.girlgamesclub.com
@@ -2778,6 +2801,7 @@
 127.0.0.1	www.snokido.fr
 127.0.0.1	www.stickpage.com
 127.0.0.1	www.strikeforceheroes3.org
+127.0.0.1	www.superhry.cz
 127.0.0.1	www.supersmashflash3.org
 127.0.0.1	www.surgerygamesonline.com
 127.0.0.1	www.tank2play.com
