@@ -96,6 +96,7 @@
 127.0.0.1	atari.com
 127.0.0.1	audigames.com
 127.0.0.1	awky.com
+127.0.0.1	axisgamesonline.com
 127.0.0.1	baby-barbie.goldhairgames.com
 127.0.0.1	baby-bathing.goldhairgames.com
 127.0.0.1	baby-doctor.goldhairgames.com
@@ -957,6 +958,7 @@
 127.0.0.1	www.arcadescool.com
 127.0.0.1	www.arcadespidermangames.info
 127.0.0.1	www.arcadeyum.com
+127.0.0.1	www.axisfootballleague.net
 127.0.0.1	www.azaleasdolls.com
 127.0.0.1	www.azu.com
 127.0.0.1	www.baby-games.com
@@ -2650,6 +2652,7 @@
 127.0.0.1	ultimatenaruto.org
 127.0.0.1	unblckdgms.blogspot.com
 127.0.0.1	unblock-your-school.weebly.com
+127.0.0.1	unblocked-games-2014.weebly.com
 127.0.0.1	unblocked-games-pro.weebly.com
 127.0.0.1	unblocked720.weebly.com
 127.0.0.1	unblockedgames-4-u.weebly.com
