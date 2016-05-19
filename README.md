@@ -7,11 +7,12 @@ The goal is to only allow games on Fridays while keeping a generally safe enviro
 
 WARNING: I use this in addition to a content filter.  This is not complete and does not claim to be.
 
-There are four main types of files here.
+There are five main types of files here.
   * F files allow games.
   * MTWR files block games.
   * win files use the End of Line formatting for Windows systems.
   * unix files use the End of Line formatting for Linux, Mac, routers, and Unix systems.
+  * LS files redirect to a local web server instead of giving an error.
 
 I am looking for help with the following:
   * adding domains to this list
