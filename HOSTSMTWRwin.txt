@@ -2699,6 +2699,7 @@
 0.0.0.0	unblock-your-school.weebly.com
 0.0.0.0	unblocked-games-2014.weebly.com
 0.0.0.0	unblocked-games-pro.weebly.com
+0.0.0.0	unblocked-games-smartass202.weebly.com
 0.0.0.0	unblocked-happywheels.com
 0.0.0.0	unblocked-weebly.com
 0.0.0.0	unblocked720.weebly.com
@@ -2802,6 +2803,7 @@
 0.0.0.0	www.mcleodgaming.com
 0.0.0.0	www.miniplay.com
 0.0.0.0	www.muchgames.com
+0.0.0.0	www.multiplayer.gg
 0.0.0.0	www.mydoctorgames.com
 0.0.0.0	www.myhappygames.com
 0.0.0.0	www.naruto-storm3.com
@@ -2858,6 +2860,7 @@
 0.0.0.0	www.xpmath.com
 0.0.0.0	www.y7.vc
 0.0.0.0	www.zepetto.com
+0.0.0.0	www.zombocalypse.net
 0.0.0.0	youlendir.me
 0.0.0.0	zdoz.com
 0.0.0.0	zombies.friv.asia
