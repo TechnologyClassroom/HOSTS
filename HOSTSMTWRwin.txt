@@ -3422,6 +3422,7 @@
 0.0.0.0	www.hulu.com
 0.0.0.0	www.mavitv.com
 0.0.0.0	www.metacafe.com
+0.0.0.0	www.movietubeonline.net
 0.0.0.0	www.mtv.co.uk
 0.0.0.0	www.oploverz.net
 0.0.0.0	www.pewdiepie.com
