@@ -1,5 +1,5 @@
 ##
-# Host Database # Updated 20160520
+# Host Database # Updated 20160526
 # Michael McMahon
 #
 # localhost is used to configure the loopback interface.
@@ -63,6 +63,7 @@
 0.0.0.0	agario.net
 0.0.0.0	agario0.com
 0.0.0.0	agariom.net
+0.0.0.0	agariounblocked.net
 0.0.0.0	ageofwar.us
 0.0.0.0	aircraft.friv.asia
 0.0.0.0	aircraft.newy8games.com
@@ -879,6 +880,7 @@
 0.0.0.0	turn-based.ubala.com
 0.0.0.0	ubflashgames.weebly.com
 0.0.0.0	ugames.co
+0.0.0.0	unblockedgames76.weebly.com
 0.0.0.0	unblockedgamescorner.weebly.com
 0.0.0.0	undead.friv.asia
 0.0.0.0	unity3d.com
@@ -1134,6 +1136,7 @@
 0.0.0.0	www.freeonlinegames.com
 0.0.0.0	www.freeplaynow.com
 0.0.0.0	www.freerider-3.net
+0.0.0.0	www.freesupergames.com
 0.0.0.0	www.freetetris.org
 0.0.0.0	www.freewebarcade.com
 0.0.0.0	www.freeworldgroup.com
@@ -1323,6 +1326,7 @@
 0.0.0.0	www.i-agame.com
 0.0.0.0	www.i-dressup.com
 0.0.0.0	www.i6.com
+0.0.0.0	www.icarly.com
 0.0.0.0	www.icivics.org
 0.0.0.0	www.ifgdb.com
 0.0.0.0	www.ign.com
@@ -2239,6 +2243,7 @@
 0.0.0.0	king.game321.com
 0.0.0.0	kizifriv12.blogspot.com
 0.0.0.0	kizifrivjuegosfriv.blogspot.com
+0.0.0.0	kralagario.com
 0.0.0.0	ladypopular.com
 0.0.0.0	lass-primorye.ru
 0.0.0.0	league-of-legends.en.softonic.com
@@ -2526,6 +2531,7 @@
 0.0.0.0	boxing.ubala.com
 0.0.0.0	cargames.autosaur.com
 0.0.0.0	cool77.com
+0.0.0.0	coolmath-game.net
 0.0.0.0	dayzmod.com
 0.0.0.0	dd.playsnail.com
 0.0.0.0	deadzed-2.com
@@ -2596,6 +2602,7 @@
 0.0.0.0	ogunblockedgaming.weebly.com
 0.0.0.0	old.2pg.com
 0.0.0.0	onlytanktrouble.com
+0.0.0.0	pcunblocked.weebly.com
 0.0.0.0	people.inf.elte.hu
 0.0.0.0	perfectworld.com
 0.0.0.0	pfreegames.com
@@ -2687,6 +2694,7 @@
 0.0.0.0	terrorist.newy8games.com
 0.0.0.0	terrorist.ubala.com
 0.0.0.0	thederpinggames.weebly.com
+0.0.0.0	thefunblocked-games.weebly.com
 0.0.0.0	theschoolunblockedgames.weebly.com
 0.0.0.0	throwing.friv.asia
 0.0.0.0	throwing.newy8games.com
@@ -2708,6 +2716,7 @@
 0.0.0.0	unblockedgames20.com
 0.0.0.0	unblockedgamesbydylantwo.weebly.com
 0.0.0.0	unblockedgamescom.com
+0.0.0.0	unblockedgamesus.com
 0.0.0.0	unblockedgameszone.com
 0.0.0.0	undead.newy8games.com
 0.0.0.0	undead.ubala.com
@@ -2721,6 +2730,7 @@
 0.0.0.0	withsix.com
 0.0.0.0	worldoftanks.com
 0.0.0.0	wraparstallym.blog.com
+0.0.0.0	www.1cargames.com
 0.0.0.0	www.2player.com
 0.0.0.0	www.4223.com
 0.0.0.0	www.80r.com
@@ -2772,10 +2782,11 @@
 0.0.0.0	www.gahe.com
 0.0.0.0	www.game-debate.com
 0.0.0.0	www.gamebaby.com
-0.0.0.0	www.gamesbook.com
-0.0.0.0	www.gamesbox.com
 0.0.0.0	www.gamefudge.com
 0.0.0.0	www.gamewall.net
+0.0.0.0	www.gamesbook.com
+0.0.0.0	www.gamesbox.com
+0.0.0.0	www.gamesunblockedgames.com
 0.0.0.0	www.girlgames1.com
 0.0.0.0	www.girlgamesclub.com
 0.0.0.0	www.globulos.com
@@ -2859,6 +2870,7 @@
 0.0.0.0	www.whackyourcomputer.com
 0.0.0.0	www.xpmath.com
 0.0.0.0	www.y7.vc
+0.0.0.0	www.y8unblocked.com
 0.0.0.0	www.zepetto.com
 0.0.0.0	www.zombocalypse.net
 0.0.0.0	youlendir.me
@@ -2881,6 +2893,7 @@
 0.0.0.0	www.crusharcade.com
 0.0.0.0	www.icytower.com
 0.0.0.0	www.ironspeed.com
+0.0.0.0	www.spore.net
 0.0.0.0	www.ziparcade.com
 
 
