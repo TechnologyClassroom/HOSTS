@@ -1,5 +1,5 @@
 ##
-# Host Database # Updated 20160526
+# Host Database # Updated 20160602
 # Michael McMahon
 #
 # localhost is used to configure the loopback interface.
@@ -235,6 +235,7 @@
 0.0.0.0	collecting-games.ubala.com
 0.0.0.0	coloring.friv.asia
 0.0.0.0	coloring.gamesxl.com
+0.0.0.0	colorswitchaz.com
 0.0.0.0	cooking.friv.asia
 0.0.0.0	cooking.gamesxl.com
 0.0.0.0	cooking.newy8games.com
@@ -1655,6 +1656,7 @@
 0.0.0.0	www.stuntbikegames.org
 0.0.0.0	www.suoky.com
 0.0.0.0	www.supergames.com
+0.0.0.0	www.supergames.io
 0.0.0.0	www.surfnetkids.com
 0.0.0.0	www.swagbucks.com
 0.0.0.0	www.sweetiegames.com
@@ -1665,6 +1667,7 @@
 0.0.0.0	www.tennisgames.tv
 0.0.0.0	www.thecargames.org
 0.0.0.0	www.thedollpalace.com
+0.0.0.0	www.theimpossiblequiz.net
 0.0.0.0	www.therealtoothfairies.com
 0.0.0.0	www.tomsgames.com
 0.0.0.0	www.toon3.com
@@ -1672,6 +1675,7 @@
 0.0.0.0	www.toons.tv
 0.0.0.0	www.topbabygames.com
 0.0.0.0	www.topgalgames.com
+0.0.0.0	www.trex-game.skipser.com
 0.0.0.0	www.truckgamesparking.com
 0.0.0.0	www.turbonuke.com
 0.0.0.0	www.twoplayer-game.com
@@ -2130,11 +2134,14 @@
 0.0.0.0	account.swtor.com
 0.0.0.0	aeon-hotel.net
 0.0.0.0	agar.bz
+0.0.0.0	agar.la
 0.0.0.0	agarabi.com
+0.0.0.0	agario.co
 0.0.0.0	agario.us
 0.0.0.0	agariom.net
 0.0.0.0	agarioprivate.net
-0.0.0.0	agarios.comagario.co
+0.0.0.0	agarios.com
+0.0.0.0	agariov.com
 0.0.0.0	agarprivateserver.com
 0.0.0.0	age.game321.com
 0.0.0.0	agrio-game.com
@@ -2669,6 +2676,7 @@
 0.0.0.0	supersmashflash123.com
 0.0.0.0	supersmashflash2a.com
 0.0.0.0	supersmashflash2hacked.com
+0.0.0.0	supersmashflash2unblocked.info
 0.0.0.0	supersmashflash3x.net
 0.0.0.0	supersmashflash3x.org
 0.0.0.0	supersmashflash4x.com
@@ -2701,6 +2709,7 @@
 0.0.0.0	throwing.ubala.com
 0.0.0.0	toilets.gamesxl.com
 0.0.0.0	totaljerkface.com
+0.0.0.0	ubfg.weebly.com
 0.0.0.0	ubflashgames.weebly.com
 0.0.0.0	ultimatenaruto.org
 0.0.0.0	unblckdgms.blogspot.com
@@ -3411,6 +3420,7 @@
 0.0.0.0	thatvideosite.com
 0.0.0.0	trueveo.com
 0.0.0.0	tvduck.com
+0.0.0.0	tvline.com
 0.0.0.0	ustream.tv
 0.0.0.0	videobomb.com
 0.0.0.0	videosift.com
@@ -3422,6 +3432,7 @@
 0.0.0.0	www.hulu.com
 0.0.0.0	www.mavitv.com
 0.0.0.0	www.metacafe.com
+0.0.0.0	www.mirror.co.uk
 0.0.0.0	www.movietubeonline.net
 0.0.0.0	www.mtv.co.uk
 0.0.0.0	www.oploverz.net
@@ -3452,6 +3463,8 @@
 0.0.0.0	23.235.39.249
 0.0.0.0	4302-avredlrect.com
 0.0.0.0	515srver.xyz
+0.0.0.0	555-123abvbcz99a50a11.com
+0.0.0.0	555-123abvbcz99a50all.com
 0.0.0.0	a.tribalfusion.com
 0.0.0.0	ad.directrev.com
 0.0.0.0	adboss.com
@@ -3471,6 +3484,7 @@
 0.0.0.0	arcadewow.com
 0.0.0.0	attentionneeded.media4.netdna-cdn.com
 0.0.0.0	bd.summit.net # Picture with embedded Malware
+0.0.0.0	besttechheadlinenow.com
 0.0.0.0	blackra1n.com
 0.0.0.0	bot.jlynx.net
 0.0.0.0	broswerfailure.xyz
@@ -3491,6 +3505,7 @@
 0.0.0.0	filter.onwardclick.com
 0.0.0.0	firewall-security-alert.1-dx23e-error.com
 0.0.0.0	free-mac-download.org
+0.0.0.0	freemaintenance.check4free.top
 0.0.0.0	freesearchquick.com
 0.0.0.0	funwebproducts.com
 0.0.0.0	gamesyard.com
@@ -3510,6 +3525,7 @@
 0.0.0.0	iur.ezanan.com
 0.0.0.0	jorber.org
 0.0.0.0	kaboho.com
+0.0.0.0	keyupgrade.set2updatenow.tech
 0.0.0.0	kraft.promo.eprize.com
 0.0.0.0	ldugkh.com
 0.0.0.0	loadfasterplease.com
@@ -3536,6 +3552,7 @@
 0.0.0.0	pro.25pp.com
 0.0.0.0	quickdomainfwd.com
 0.0.0.0	rdsa2012.com
+0.0.0.0	readupdate.free2update.site
 0.0.0.0	registry-error.info
 0.0.0.0	s.arclk.net
 0.0.0.0	s.update.tubemogul.com # Picture with embedded Malware
@@ -3545,12 +3562,15 @@
 0.0.0.0	seeyourprize.com
 0.0.0.0	serve.popads.net
 0.0.0.0	sindprevs-sc.org.br
+0.0.0.0	signup.sweepstakesshopping.com
 0.0.0.0	sites.securepaynet.net # Picture with embedded Malware
 0.0.0.0	softwareupdaterlp.com
 0.0.0.0	sponsor.adverstitial.com
+0.0.0.0	srv23.api-performanc.com
 0.0.0.0	superfolder.net
 0.0.0.0	supergiftland.guuz.info
 0.0.0.0	supersmashflash3x.com # leads to malware
+0.0.0.0	surveyrewards-netweb.com
 0.0.0.0	trafficbauss.com
 0.0.0.0	ttkkx21.xyz
 0.0.0.0	us.com-daily-rewards.com
@@ -3563,6 +3583,8 @@
 0.0.0.0	wiz.globalcartrepair.com
 0.0.0.0	ww1.poptropica.com # THIS IS MY PROBLEM
 0.0.0.0	ww1.warriorcats.com
+0.0.0.0	www.555-123abvbcz99a50a11.com
+0.0.0.0	www.555-123abvbcz99a50all.com
 0.0.0.0	www.adnetworkperformance.com
 0.0.0.0	www.agar.io.net
 0.0.0.0	www.agario.com.tr
@@ -3575,6 +3597,7 @@
 0.0.0.0	www.default-search.net
 0.0.0.0	www.electronicpromotionscenter.com
 0.0.0.0	www.fastupdater.com
+0.0.0.0	www.fizipop.com
 0.0.0.0	www.freepctuning.com
 0.0.0.0	www.freezipmac.net
 0.0.0.0	www.friq.com
@@ -3606,7 +3629,9 @@
 0.0.0.0	www.thewebshoppee.com
 0.0.0.0	www.track300.com
 0.0.0.0	www.tradeadexchange.com
+0.0.0.0	www.viracure.com
 0.0.0.0	www.yieldtraffic.com
+0.0.0.0	xb11766.com
 0.0.0.0	y8.cm
 0.0.0.0	zb1.zeroredirect1.com
 0.0.0.0	zb1.zeroredirect2.com
