@@ -12,6 +12,20 @@
 #0.0.0.0	pbskids.org
 #0.0.0.0	www.sheppardsoftware.com
 #0.0.0.0	scratch.mit.edu
+0.0.0.0	www.funnygames.ir
+0.0.0.0	www.funnygames.ie
+0.0.0.0	3d-games.org
+0.0.0.0	www.gamesting.com
+0.0.0.0	quizimpossibleunblocked.myblog.de
+0.0.0.0	en.what-character-are-you.com
+0.0.0.0	quiztheimpossiblexyz.myblog.de
+0.0.0.0	dagobah.biz
+0.0.0.0	theimpossiblequiz.info
+0.0.0.0	impossiblegame2.com
+0.0.0.0	theimpossiblequiz.org
+0.0.0.0	theimpossiblequiz.org.uk
+0.0.0.0	play.escapegames24.com
+0.0.0.0	www.gameglad.com
 0.0.0.0	1-on-1-soccer.gamesxl.com
 0.0.0.0	1-player.friv.asia # Ping these to lower the amount of entries
 0.0.0.0	1-player.lovey8.com
@@ -240,6 +254,7 @@
 0.0.0.0	cooking.gamesxl.com
 0.0.0.0	cooking.newy8games.com
 0.0.0.0	cooking.ubala.com
+0.0.0.0	cool-math.co.uk
 0.0.0.0	coolkidsgames.net
 0.0.0.0	coolmath4kidsgame.com
 0.0.0.0	crazymonkeygames.com
@@ -494,7 +509,9 @@
 0.0.0.0	ifgo.net
 0.0.0.0	ifrozengames.com
 0.0.0.0	igrezadecu.com
+0.0.0.0	impossiblegame.org
 0.0.0.0	impossiblequiz2.net
+0.0.0.0	impossiblequiz3.com
 0.0.0.0	infinity.disney.com
 0.0.0.0	infinityring.scholastic.com
 0.0.0.0	inmotion-band.ru
@@ -857,7 +874,10 @@
 0.0.0.0	thefrozengames.com
 0.0.0.0	thefusejoplin.com
 0.0.0.0	thegamerstop.com
+0.0.0.0	theimpossiblequiz.me
+0.0.0.0	theimpossiblequiz.net
 0.0.0.0	theimpossiblequiz.org
+0.0.0.0	theimpossiblequiz2.org
 0.0.0.0	themes.gamesxl.com
 0.0.0.0	think.gamesxl.com
 0.0.0.0	timing-game.friv.asia
@@ -1208,6 +1228,7 @@
 0.0.0.0	www.gamebrew.com
 0.0.0.0	www.gamechit.com
 0.0.0.0	www.gameflare.com
+0.0.0.0	www.gamefudge.com
 0.0.0.0	www.gamefz.com
 0.0.0.0	www.gamegape.com
 0.0.0.0	www.gamegirly.com
@@ -1304,6 +1325,7 @@
 0.0.0.0	www.glulo.com
 0.0.0.0	www.goldfishfun.com
 0.0.0.0	www.goldhairgames.com
+0.0.0.0	www.googlefeud.com
 0.0.0.0	www.gsn.com
 0.0.0.0	www.gswitchgame.com
 0.0.0.0	www.gunkfun.com
@@ -1332,6 +1354,7 @@
 0.0.0.0	www.ifgdb.com
 0.0.0.0	www.ign.com
 0.0.0.0	www.ihotgames.com
+0.0.0.0	www.impossible-quiz.com
 0.0.0.0	www.in.com
 0.0.0.0	www.innogames.com
 0.0.0.0	www.inocreato.com
@@ -1425,6 +1448,7 @@
 0.0.0.0	www.knowledgeadventure.com
 0.0.0.0	www.kobe-games.com
 0.0.0.0	www.kongregate.com
+0.0.0.0	www.koreus.com
 0.0.0.0	www.ladygames.com
 0.0.0.0	www.lalaloopsygirls.com
 0.0.0.0	www.latestgamesfree.com
@@ -1549,6 +1573,7 @@
 0.0.0.0	www.playallfreeonlinegames.com
 0.0.0.0	www.playbaseballgames.org
 0.0.0.0	www.playbasketballgames.org
+0.0.0.0	www.playbuzz.com
 0.0.0.0	www.playcyclinggames.com
 0.0.0.0	www.playfg.com
 0.0.0.0	www.playfootballgames.org
@@ -1601,6 +1626,7 @@
 0.0.0.0	www.puffgames.com
 0.0.0.0	www.purly-games.com
 0.0.0.0	www.puzzleplay.com
+0.0.0.0	www.quizrocket.com
 0.0.0.0	www.r2games.com
 0.0.0.0	www.racing-games.com
 0.0.0.0	www.racing3dgames.com
@@ -1665,6 +1691,7 @@
 0.0.0.0	www.symbolgames.com
 0.0.0.0	www.teamopolis.com
 0.0.0.0	www.tennisgames.tv
+0.0.0.0	www.the-impossible-quiz.com
 0.0.0.0	www.thecargames.org
 0.0.0.0	www.thedollpalace.com
 0.0.0.0	www.theimpossiblequiz.net
@@ -1694,6 +1721,7 @@
 0.0.0.0	www.wheelgamer.com
 0.0.0.0	www.wonderforge.com
 0.0.0.0	www.wooglie.com
+0.0.0.0	www.wordgames.com
 0.0.0.0	www.worldvidogamehalloffame.org
 0.0.0.0	www.wzby.com
 0.0.0.0	www.xbox.com
@@ -2808,6 +2836,7 @@
 0.0.0.0	www.happywheelsy8.com
 0.0.0.0	www.helmet-heroes.com
 0.0.0.0	www.hospitalgames.co.uk
+0.0.0.0	www.i-am-bored.com
 0.0.0.0	www.igre123.net
 0.0.0.0	www.imyourfather.com
 0.0.0.0	www.invalidmob.com
@@ -3398,6 +3427,7 @@
 0.0.0.0	dailymotion.com
 0.0.0.0	devilducky.com
 0.0.0.0	documentarystorm
+0.0.0.0	gfycat.com
 0.0.0.0	hangouts.google.com
 0.0.0.0	ifilm.com
 0.0.0.0	ifunny.co
@@ -3458,6 +3488,13 @@
 
 
 # Spam / Sec
+0.0.0.0	yourcomputerhaveaseriousproblemspleasecallonnumberbelowtollfree.yourcomputerhaveaseriousproblemspleasecallonnumberbelowtollfree.yourcomputerhaveaseriousproblemspleasecallonnumberbelowtollfree.internet-protocol-server-alert.us
+0.0.0.0	j30.mediavos.com
+0.0.0.0	internet-protocol-server-alert.us
+0.0.0.0	us.wow.com
+0.0.0.0	search.beesq.net
+0.0.0.0	clickppcbuzz.com
+0.0.0.0	303l.fairfieldclassof63.com
 0.0.0.0	11165236-10472966.id2.clickvalidate.com
 0.0.0.0	11165368-30835.id2.clickvalidate.com
 0.0.0.0	23.235.39.249
