@@ -3494,12 +3494,15 @@
 # Spam / Sec
 127.0.0.1	11165236-10472966.id2.clickvalidate.com
 127.0.0.1	11165368-30835.id2.clickvalidate.com
+127.0.0.1 188.138.88.184 #Locky Ransomware
 127.0.0.1	23.235.39.249
+127.0.0.1 31.41.47.37 #Locky Ransomware
 127.0.0.1	303l.fairfieldclassof63.com
 127.0.0.1	4302-avredlrect.com
 127.0.0.1	515srver.xyz
 127.0.0.1	555-123abvbcz99a50a11.com
 127.0.0.1	555-123abvbcz99a50all.com
+127.0.0.1 85.25.138.187 #Locky Ransomware
 127.0.0.1	a.tribalfusion.com
 127.0.0.1	ad.directrev.com
 127.0.0.1	adboss.com
@@ -3553,7 +3556,7 @@
 127.0.0.1	homesecurityspecial.com
 127.0.0.1	hot2014rewards.com
 127.0.0.1	hotyoungpussy.org
-127.0.0.1	icanhazip.com
+127.0.0.1	icanhazip.com # Ransomware
 127.0.0.1	ifindyouhere.info
 127.0.0.1	image.jordan13acheap.com # Picture with embedded Malware
 127.0.0.1	important-update.netsecurityalerts.com
