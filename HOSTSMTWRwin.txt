@@ -3461,6 +3461,7 @@
 
 # Streaming Video Sites
 127.0.0.1	abc.go.com
+127.0.0.1	achievementhunter.roosterteeth.com
 127.0.0.1	av.vimeo.com
 127.0.0.1	bigcontact.com
 127.0.0.1	blinkx.com
@@ -3473,6 +3474,7 @@
 127.0.0.1	dailymotion.com
 127.0.0.1	devilducky.com
 127.0.0.1	documentarystorm
+127.0.0.1	funhaus.roosterteeth.com
 127.0.0.1	gfycat.com
 127.0.0.1	hangouts.google.com
 127.0.0.1	ifilm.com
@@ -3486,7 +3488,9 @@
 127.0.0.1	phanfare.com
 127.0.0.1	putlocker.is # Illegal and full of malware popups
 127.0.0.1	revver.com
+127.0.0.1	roosterteeth.com
 127.0.0.1	screen.yahoo.com
+127.0.0.1	screwattack.roosterteeth.com
 127.0.0.1	sevenload.com
 127.0.0.1	speedytv.com
 127.0.0.1	stickam.com
@@ -3494,6 +3498,7 @@
 127.0.0.1	stupidvideos.com
 127.0.0.1	surround.verizon.com
 127.0.0.1	thatvideosite.com
+127.0.0.1	theknow.roosterteeth.com
 127.0.0.1	trueveo.com
 127.0.0.1	tvduck.com
 127.0.0.1	tvline.com
