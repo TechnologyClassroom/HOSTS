@@ -3,7 +3,9 @@ HOSTS files can help protect educational environments from inappropriate materia
 
 Michael McMahon
 
-The goal is to only allow games on Fridays while keeping a generally safe environment for children.  Creative projects should be made Monday-Thursday.  Manually updating and copying these files can be cumbersome so the process should be automated such as <a href="https://github.com/BlueHillBGCB/BAT">this example for Windows</a>.
+The goal is to only allow games on Fridays while keeping a generally safe environment for children.  Creative projects should be made Monday-Thursday.
+
+Manually updating and copying these files can be cumbersome so the process should be automated such as <a href="https://github.com/BlueHillBGCB/BAT">this example for Windows</a>.
 
 WARNING: I use this in addition to a content filter.  This is not complete and does not claim to be.
 
