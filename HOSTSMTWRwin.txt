@@ -3554,6 +3554,7 @@
 0.0.0.0	homesecurityspecial.com
 0.0.0.0	hot2014rewards.com
 0.0.0.0	hotyoungpussy.org
+0.0.0.0	icanhazip.com
 0.0.0.0	ifindyouhere.info
 0.0.0.0	image.jordan13acheap.com # Picture with embedded Malware
 0.0.0.0	important-update.netsecurityalerts.com
