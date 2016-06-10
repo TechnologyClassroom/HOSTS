@@ -2575,6 +2575,8 @@
 
 # Games with inappropriate content
 # search fighting games, surgery games, blood games, gore games, killing games, happy wheels, get on top, tank trouble, unblocked games
+127.0.0.1	happywheelsunblocked.us
+127.0.0.1	happywheels10.com
 127.0.0.1	*box10com.net
 127.0.0.1	1-vs-1-fights.gamesxl.com
 127.0.0.1	198.57.204.55 # www.juegosipo.com
