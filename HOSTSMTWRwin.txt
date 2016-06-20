@@ -791,6 +791,7 @@
 127.0.0.1	skylanders.com
 127.0.0.1	slither.io
 127.0.0.1	slither.kralagario.com
+127.0.0.1	slitherio.org
 127.0.0.1	slitheriogameplay.com
 127.0.0.1	slitheriounblocked.com
 127.0.0.1	snow.friv.asia
@@ -1567,6 +1568,7 @@
 127.0.0.1	www.nflrush.com
 127.0.0.1	www.nick-asia.com
 127.0.0.1	www.nick.com
+127.0.0.1	www.nick.com.au
 127.0.0.1	www.nickjr.co.uk
 127.0.0.1	www.nickjr.com
 127.0.0.1	www.nintendo.co.uk
@@ -1726,6 +1728,7 @@
 127.0.0.1	www.suoky.com
 127.0.0.1	www.supergames.com
 127.0.0.1	www.supergames.io
+127.0.0.1	www.supersnake.io
 127.0.0.1	www.surfnetkids.com
 127.0.0.1	www.swagbucks.com
 127.0.0.1	www.sweetiegames.com
@@ -2376,6 +2379,7 @@
 127.0.0.1	pirates.game321.com
 127.0.0.1	platform.everfi.net #maybe
 127.0.0.1	play.clubpenguin.com
+127.0.0.1	play.fantage.com
 127.0.0.1	playbobba.net
 127.0.0.1	playboon.me
 127.0.0.1	playfade.net
@@ -2631,6 +2635,7 @@
 127.0.0.1	fighting.ubala.com
 127.0.0.1	first-person-shooter.newy8games.com
 127.0.0.1	first-person-shooter.ubala.com
+127.0.0.1	flash-gaming.weebly.com
 127.0.0.1	flavorshop.blogspot.com
 127.0.0.1	free-surgery-games.com
 127.0.0.1	freeonlineflashgames76.weebly.com
@@ -2819,6 +2824,7 @@
 127.0.0.1	www.1cargames.com
 127.0.0.1	www.2player.com
 127.0.0.1	www.4223.com
+127.0.0.1	www.6zar.com
 127.0.0.1	www.80r.com
 127.0.0.1	www.9game.com
 127.0.0.1	www.a10.com
@@ -2950,6 +2956,7 @@
 127.0.0.1	www.unblockedgames1.com
 127.0.0.1	www.unblockedgames2.com
 127.0.0.1	www.unblockedgames5.com
+127.0.0.1	www.unblockedgamesite.com
 127.0.0.1	www.unblockedgamesmania.com
 127.0.0.1	www.veryclip.com
 127.0.0.1	www.whackit.co
