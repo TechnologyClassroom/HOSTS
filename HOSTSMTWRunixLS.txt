@@ -9,6 +9,8 @@
 # the alternative of hitting a content filter dead end.
 ##
 
+#debug
+
 # FRIDAY ONLY Games
 # Search terms: Friv, juegos, jogos, games, y8, kizi, returnman, agame, coolmath, yepi, play, and combinations of those, girl games, super mario games, elsa games (7 pages), flash games (9), dress up games (7p), friv kizi juegos yepi (4p), princess games (6p), hello kitty games, iron spider games (5p), virtual driving games, ben 10 games (4p), unity games online, shockwave games, candy games, bmx games, flash games (9p), io games, angry birds, and "1..9999games"
 #172.16.20.84	scratch.mit.edu
