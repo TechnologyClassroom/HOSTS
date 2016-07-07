@@ -2988,6 +2988,7 @@
 127.0.0.1	www.icytower.com
 127.0.0.1	www.ironspeed.com
 127.0.0.1	www.spore.net
+127.0.0.1	www.thingames.com
 127.0.0.1	www.ziparcade.com
 
 
