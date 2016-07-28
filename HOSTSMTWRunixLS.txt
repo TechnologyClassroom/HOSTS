@@ -1,19 +1,16 @@
 ##
-# Host Database # Updated 20160606
+# Host Database # Updated 20160728
 # Michael McMahon
 #
 # localhost is used to configure the loopback interface.
 # Loopbacks can redirect the domain to the IP address of your choosing.
-# This will redirect inappropriate websites to a local web server
-# full of constructive opportunities.  This is much better than
-# the alternative of hitting a content filter dead end.
+# 172.16.20.84	goes nowhere.
 ##
-
-#debug
 
 # FRIDAY ONLY Games
 # Search terms: Friv, juegos, jogos, games, y8, kizi, returnman, agame, coolmath, yepi, play, and combinations of those, girl games, super mario games, elsa games (7 pages), flash games (9), dress up games (7p), friv kizi juegos yepi (4p), princess games (6p), hello kitty games, iron spider games (5p), virtual driving games, ben 10 games (4p), unity games online, shockwave games, candy games, bmx games, flash games (9p), io games, angry birds, and "1..9999games"
 #172.16.20.84	scratch.mit.edu
+#172.16.20.84	www.mixels.asia
 #172.16.20.84	www.sheppardsoftware.com
 172.16.20.84	1-on-1-soccer.gamesxl.com
 172.16.20.84	1-player.friv.asia # Ping these to lower the amount of entries
@@ -573,6 +570,7 @@
 172.16.20.84	mathgamesaz.com
 172.16.20.84	maze.friv.asia
 172.16.20.84	media.y8.com
+172.16.20.84	megaunblocked.com
 172.16.20.84	memory-game.friv.asia
 172.16.20.84	memory-games.aoleonthemartiangirl.com
 172.16.20.84	mickey-mouse.gamesxl.com
@@ -680,7 +678,9 @@
 172.16.20.84	playreturnman2.org
 172.16.20.84	playreturnman3.com
 172.16.20.84	playstation.com
+172.16.20.84	playunfairmario.net
 172.16.20.84	poki.com
+172.16.20.84	pokionline.com
 172.16.20.84	police.gamesxl.com
 172.16.20.84	pollypocket.com
 172.16.20.84	popeye.gamesxl.com
@@ -795,6 +795,7 @@
 172.16.20.84	skylanders.com
 172.16.20.84	slither.io
 172.16.20.84	slither.kralagario.com
+172.16.20.84	slitherio.org
 172.16.20.84	slitheriogameplay.com
 172.16.20.84	slitheriounblocked.com
 172.16.20.84	snow.friv.asia
@@ -871,6 +872,7 @@
 172.16.20.84	thefrozengames.com
 172.16.20.84	thefusejoplin.com
 172.16.20.84	thegamerstop.com
+172.16.20.84	thegamingboard.weebly.com
 172.16.20.84	theimpossiblequiz.info
 172.16.20.84	theimpossiblequiz.me
 172.16.20.84	theimpossiblequiz.net
@@ -1221,6 +1223,46 @@
 172.16.20.84	www.funnygames.ie
 172.16.20.84	www.funnygames.ir
 172.16.20.84	www.funnygames.ro
+172.16.20.84	www.funny-games.co.uk
+172.16.20.84	www.funnygames.asia
+172.16.20.84	www.funnygames.at
+172.16.20.84	www.funnygames.be
+172.16.20.84	www.funnygames.biz
+172.16.20.84	www.funnygames.com.br
+172.16.20.84	www.funnygames.ch
+172.16.20.84	www.funnygames.cn
+172.16.20.84	www.funnygames.com.co
+172.16.20.84	www.funnygames.dk
+172.16.20.84	www.funnygames.es
+172.16.20.84	www.funnygames.eu
+172.16.20.84	www.funnygames.fi
+172.16.20.84	www.funnygames.fr
+172.16.20.84	www.funnygames.gr
+172.16.20.84	www.funnygames.hu
+172.16.20.84	www.funnygames.co.id
+172.16.20.84	www.funnygames.ie
+172.16.20.84	www.funnygames.in
+172.16.20.84	www.funnygames.ir
+172.16.20.84	www.funnygames.it
+172.16.20.84	www.funnygames.jp
+172.16.20.84	www.funnygames.kr
+172.16.20.84	www.funnygames.lt
+172.16.20.84	www.funnygames.com.mx
+172.16.20.84	www.funnygames.com.ng
+172.16.20.84	www.funnygames.nl
+172.16.20.84	www.funnygames.no
+172.16.20.84	www.funnygames.nu
+172.16.20.84	www.funnygames.org
+172.16.20.84	www.funnygames.ph
+172.16.20.84	www.funnygames.pk
+172.16.20.84	www.funnygames.pl
+172.16.20.84	www.funnygames.com.pt
+172.16.20.84	www.funnygames.pt
+172.16.20.84	www.funnygames.ro
+172.16.20.84	www.funnygames.ru
+172.16.20.84	www.funnygames.se
+172.16.20.84	www.funnygames.com.tr
+172.16.20.84	www.funnygames.vn
 172.16.20.84	www.fynsy.com
 172.16.20.84	www.g9y9.com
 172.16.20.84	www.gaiaonline.com
@@ -1327,6 +1369,7 @@
 172.16.20.84	www.glittergames.com
 172.16.20.84	www.glowmonkey.com
 172.16.20.84	www.glulo.com
+172.16.20.84	www.gogy.com
 172.16.20.84	www.goldfishfun.com
 172.16.20.84	www.goldhairgames.com
 172.16.20.84	www.googlefeud.com
@@ -1499,6 +1542,7 @@
 172.16.20.84	www.minijuegos.com
 172.16.20.84	www.miniongames.net
 172.16.20.84	www.miniplay.com
+172.16.20.84	www.misjuegos.com
 172.16.20.84	www.mode7games.com
 172.16.20.84	www.mofunzone.com
 172.16.20.84	www.momspuzzlegames.com
@@ -1530,6 +1574,7 @@
 172.16.20.84	www.nflrush.com
 172.16.20.84	www.nick-asia.com
 172.16.20.84	www.nick.com
+172.16.20.84	www.nick.com.au
 172.16.20.84	www.nickjr.co.uk
 172.16.20.84	www.nickjr.com
 172.16.20.84	www.nintendo.co.uk
@@ -1606,6 +1651,7 @@
 172.16.20.84	www.playsportsgames.org
 172.16.20.84	www.playstation.com
 172.16.20.84	www.playtennisgames.org
+172.16.20.84	www.playtime.be
 172.16.20.84	www.playvil.com
 172.16.20.84	www.playvolleyballgames.com
 172.16.20.84	www.playxn.com
@@ -1688,6 +1734,7 @@
 172.16.20.84	www.suoky.com
 172.16.20.84	www.supergames.com
 172.16.20.84	www.supergames.io
+172.16.20.84	www.supersnake.io
 172.16.20.84	www.surfnetkids.com
 172.16.20.84	www.swagbucks.com
 172.16.20.84	www.sweetiegames.com
@@ -1701,6 +1748,7 @@
 172.16.20.84	www.thedollpalace.com
 172.16.20.84	www.theimpossiblequiz.net
 172.16.20.84	www.therealtoothfairies.com
+172.16.20.84	www.tibaco-international.com
 172.16.20.84	www.tomsgames.com
 172.16.20.84	www.toon3.com
 172.16.20.84	www.toonpow.com
@@ -1780,6 +1828,7 @@
 172.16.20.84	www.yoob.com
 172.16.20.84	www.yoyogames.me.com
 172.16.20.84	www.yy8.biz
+172.16.20.84	www.z14.com
 172.16.20.84	www.zapak.com
 172.16.20.84	www.zapxo.com
 172.16.20.84	www.zoorly.com
@@ -2337,6 +2386,7 @@
 172.16.20.84	pirates.game321.com
 172.16.20.84	platform.everfi.net #maybe
 172.16.20.84	play.clubpenguin.com
+172.16.20.84	play.fantage.com
 172.16.20.84	playbobba.net
 172.16.20.84	playboon.me
 172.16.20.84	playfade.net
@@ -2536,6 +2586,8 @@
 
 # Games with inappropriate content
 # search fighting games, surgery games, blood games, gore games, killing games, happy wheels, get on top, tank trouble, unblocked games
+172.16.20.84	happywheelsunblocked.us
+172.16.20.84	happywheels10.com
 172.16.20.84	*box10com.net
 172.16.20.84	1-vs-1-fights.gamesxl.com
 172.16.20.84	198.57.204.55 # www.juegosipo.com
@@ -2590,6 +2642,7 @@
 172.16.20.84	fighting.ubala.com
 172.16.20.84	first-person-shooter.newy8games.com
 172.16.20.84	first-person-shooter.ubala.com
+172.16.20.84	flash-gaming.weebly.com
 172.16.20.84	flavorshop.blogspot.com
 172.16.20.84	free-surgery-games.com
 172.16.20.84	freeonlineflashgames76.weebly.com
@@ -2778,6 +2831,7 @@
 172.16.20.84	www.1cargames.com
 172.16.20.84	www.2player.com
 172.16.20.84	www.4223.com
+172.16.20.84	www.6zar.com
 172.16.20.84	www.80r.com
 172.16.20.84	www.9game.com
 172.16.20.84	www.a10.com
@@ -2909,6 +2963,7 @@
 172.16.20.84	www.unblockedgames1.com
 172.16.20.84	www.unblockedgames2.com
 172.16.20.84	www.unblockedgames5.com
+172.16.20.84	www.unblockedgamesite.com
 172.16.20.84	www.unblockedgamesmania.com
 172.16.20.84	www.veryclip.com
 172.16.20.84	www.whackit.co
@@ -2940,6 +2995,7 @@
 172.16.20.84	www.icytower.com
 172.16.20.84	www.ironspeed.com
 172.16.20.84	www.spore.net
+172.16.20.84	www.thingames.com
 172.16.20.84	www.ziparcade.com
 
 
@@ -3318,84 +3374,178 @@
 
 
 
-# Minetest Servers from http://servers.minetest.ru/ 20150720
+# Minetest Servers from servers.minetest.ru 20150720 and servers.minetest.net 20160610
 #Public Serverlist in game Update Needed
 172.16.20.84	0gb.us
+172.16.20.84	104.131.62.35
 172.16.20.84	104.153.104.221
 172.16.20.84	108.94.133.186
 172.16.20.84	128.199.62.77
+172.16.20.84	131.234.130.13
+172.16.20.84	133.242.161.27
+172.16.20.84	139.59.238.211
+172.16.20.84	158.69.114.146
+172.16.20.84	158.69.223.79
+172.16.20.84	159.203.11.143
 172.16.20.84	162.156.68.250
+172.16.20.84	162.211.32.154
 172.16.20.84	162.247.155.246
+172.16.20.84	167.114.226.218
 172.16.20.84	174.110.145.201
+172.16.20.84	174.24.6.161
 172.16.20.84	178.223.104.148
 172.16.20.84	181.41.197.89
 172.16.20.84	188.40.69.134
 172.16.20.84	193.111.2.133
+172.16.20.84	194.186.240.94
 172.16.20.84	199.233.247.182
+172.16.20.84	204.106.248.97
 172.16.20.84	216.52.148.39
+172.16.20.84	217.160.13.85
+172.16.20.84	23.28.87.79
+172.16.20.84	24.91.130.179
 172.16.20.84	4.firc.de
+172.16.20.84	45.33.65.68
 172.16.20.84	50.88.239.147
+172.16.20.84	51.254.216.93
+172.16.20.84	52.39.150.123
 172.16.20.84	54.173.115.148
+172.16.20.84	54.213.82.180
+172.16.20.84	67.212.45.191
+172.16.20.84	67.250.55.119
 172.16.20.84	74.137.163.94
+172.16.20.84	78.147.160.135
+172.16.20.84	78.155.212.152
+172.16.20.84	78.218.216.2
+172.16.20.84	78.47.93.144
 172.16.20.84	78.84.8.185
 172.16.20.84	80.128.130.161
+172.16.20.84	80.129.21.162
+172.16.20.84	80.189.225.114
+172.16.20.84	81.169.215.250
+172.16.20.84	84.117.230.210
+172.16.20.84	84.211.98.175
 172.16.20.84	84.55.242.241
+172.16.20.84	85.214.208.91
 172.16.20.84	85.6.218.161
 172.16.20.84	86.135.170.238
 172.16.20.84	86.140.28.58
 172.16.20.84	87.110.8.195
+172.16.20.84	87.146.63.239
 172.16.20.84	91.117.128.68
+172.16.20.84	92.169.209.225
 172.16.20.84	94.23.33.108
+172.16.20.84	96.35.83.50
 172.16.20.84	98.166.169.32
+172.16.20.84	98.166.90.48
 172.16.20.84	98.237.133.224
+172.16.20.84	LinuxGaming.us
+172.16.20.84	LinuxGaming2.com
+172.16.20.84	amhi.ddns.net
 172.16.20.84	arg-team.ddns.net
+172.16.20.84	attack.telesight.nl
 172.16.20.84	aviactu.info
 172.16.20.84	backbone.ws
 172.16.20.84	beastyarik.chickenkiller.com
+172.16.20.84	beha.zapto.org
+172.16.20.84	breballove.ddns.net
+172.16.20.84	buildersworld.telesight.nl
 172.16.20.84	cg72server.d-n-s.name
+172.16.20.84	creativeplace.us
+172.16.20.84	cupcake.ftp.sh
+172.16.20.84	daconcepts.com
+172.16.20.84	darkside.zapto.org
+172.16.20.84	daswebmastri.com
 172.16.20.84	dev.minetest-france.fr
 172.16.20.84	digitalaudioconcepts.com
 172.16.20.84	digitalis.ga
+172.16.20.84	epixel.tuxsrv.fr
+172.16.20.84	exploranza.servegame.com
 172.16.20.84	familygrog.no-ip.org
+172.16.20.84	fishminer.mrbasic.com
+172.16.20.84	fivetwoone.ddns.net
 172.16.20.84	game.d-l-k.net
+172.16.20.84	game.halberd.de
 172.16.20.84	game.minetest-france.fr
+172.16.20.84	games.firc.de
 172.16.20.84	games.libreplanet.org
 172.16.20.84	games.tuxfamily.net
+172.16.20.84	h2o.minetest.in
+172.16.20.84	hasanalsamra.tk
 172.16.20.84	hexagon.hexagonsix.com
+172.16.20.84	illuna-minetest.tk
+172.16.20.84	internationalsurvivalgame.abilit.eu
 172.16.20.84	isotope.uk.to
+172.16.20.84	krondor.neoascetic.me
 172.16.20.84	kudisla.dlinkddns.com
-172.16.20.84	LinuxGaming.us
 172.16.20.84	linuxiuvat.de
 172.16.20.84	lunyasoft.eu
 172.16.20.84	m.ayntest.net
 172.16.20.84	mc-team.org
 172.16.20.84	mcboydesign.net
 172.16.20.84	midnightsystems.net
+172.16.20.84	mine.realmofespionage.xyz
+172.16.20.84	minemacro.tk
 172.16.20.84	minerealms.ddns.net
+172.16.20.84	mineserver.utopius.site
 172.16.20.84	minetest-cdk.servegame.com
+172.16.20.84	minetest-german.ddns.net
+172.16.20.84	minetest.akiba.fr
 172.16.20.84	minetest.b-paradise.eu
+172.16.20.84	minetest.boolshit.de
+172.16.20.84	minetest.davison.io
+172.16.20.84	minetest.euphobos.ru
 172.16.20.84	minetest.gunshippenguin.com
 172.16.20.84	minetest.inode64.com
 172.16.20.84	minetest.king-arthur.eu
 172.16.20.84	minetest.mc-team.org
 172.16.20.84	minetest.megaf.info
+172.16.20.84	minetest.oenings.de
 172.16.20.84	minetest.org
+172.16.20.84	minetest.parg-cws.de
 172.16.20.84	minetest.ru
+172.16.20.84	minetest.rubenwardy.com
+172.16.20.84	minetest.schule-erstfeld.ch
 172.16.20.84	minetest.ttyh.ru
 172.16.20.84	minetest.websynthesis.org
+172.16.20.84	minetest.zarnica.org.ua
+172.16.20.84	minetest.zock-server.de
+172.16.20.84	minetesthosting.com
 172.16.20.84	mt.megaf.info
+172.16.20.84	mt.rbose.org
+172.16.20.84	mt.thatgraemeguy.co.za
 172.16.20.84	mt1.gameboom.net
 172.16.20.84	mtzeno.com
+172.16.20.84	naib.telesight.nl
+172.16.20.84	nyje.e-it.gr
+172.16.20.84	nyx.no-ip.org
+172.16.20.84	paly2.ddns.net
+172.16.20.84	phase.ax.lt
+172.16.20.84	pixture.quelcom.xyz
+172.16.20.84	pranoke.utopari.xyz
+172.16.20.84	pts.epixel-game.net
 172.16.20.84	qbuissondebon.info
 172.16.20.84	redcrab.suret.net
+172.16.20.84	rrhgameservers.ddns.net
 172.16.20.84	selah.us.to
+172.16.20.84	servers.minetest.net
+172.16.20.84	servers.minetest.tv
 172.16.20.84	setun.net
 172.16.20.84	shadowninja.minetest.net
+172.16.20.84	shivajiva101.nsupdate.info
 172.16.20.84	spieler-stammtisch.de
 172.16.20.84	sss.chaoslab.ru
+172.16.20.84	sss.chaoslab.ru:
+172.16.20.84	stormchaser3000.noip.me
+172.16.20.84	survivalworld.telesight.nl
+172.16.20.84	survivorserverv7.ddns.net
+172.16.20.84	technoland.telesight.nl
+172.16.20.84	trainwrecktony.serveminecraft.net
 172.16.20.84	tuatec.ddns.net
+172.16.20.84	turtletango.duckdns.org
 172.16.20.84	vanessae.mine.bz
 172.16.20.84	vfserv.net
+172.16.20.84	vikingcrafters.ddns.net
 172.16.20.84	zenoheld.minetest.net
 
 
@@ -3422,6 +3572,7 @@
 
 # Streaming Video Sites
 172.16.20.84	abc.go.com
+172.16.20.84	achievementhunter.roosterteeth.com
 172.16.20.84	av.vimeo.com
 172.16.20.84	bigcontact.com
 172.16.20.84	blinkx.com
@@ -3434,6 +3585,7 @@
 172.16.20.84	dailymotion.com
 172.16.20.84	devilducky.com
 172.16.20.84	documentarystorm
+172.16.20.84	funhaus.roosterteeth.com
 172.16.20.84	gfycat.com
 172.16.20.84	hangouts.google.com
 172.16.20.84	ifilm.com
@@ -3447,7 +3599,9 @@
 172.16.20.84	phanfare.com
 172.16.20.84	putlocker.is # Illegal and full of malware popups
 172.16.20.84	revver.com
+172.16.20.84	roosterteeth.com
 172.16.20.84	screen.yahoo.com
+172.16.20.84	screwattack.roosterteeth.com
 172.16.20.84	sevenload.com
 172.16.20.84	speedytv.com
 172.16.20.84	stickam.com
@@ -3455,6 +3609,7 @@
 172.16.20.84	stupidvideos.com
 172.16.20.84	surround.verizon.com
 172.16.20.84	thatvideosite.com
+172.16.20.84	theknow.roosterteeth.com
 172.16.20.84	trueveo.com
 172.16.20.84	tvduck.com
 172.16.20.84	tvline.com
@@ -3498,12 +3653,15 @@
 # Spam / Sec
 172.16.20.84	11165236-10472966.id2.clickvalidate.com
 172.16.20.84	11165368-30835.id2.clickvalidate.com
+172.16.20.84	188.138.88.184 #Locky Ransomware
 172.16.20.84	23.235.39.249
+172.16.20.84	31.41.47.37 #Locky Ransomware
 172.16.20.84	303l.fairfieldclassof63.com
 172.16.20.84	4302-avredlrect.com
 172.16.20.84	515srver.xyz
 172.16.20.84	555-123abvbcz99a50a11.com
 172.16.20.84	555-123abvbcz99a50all.com
+172.16.20.84	85.25.138.187 #Locky Ransomware
 172.16.20.84	a.tribalfusion.com
 172.16.20.84	ad.directrev.com
 172.16.20.84	adboss.com
@@ -3557,7 +3715,7 @@
 172.16.20.84	homesecurityspecial.com
 172.16.20.84	hot2014rewards.com
 172.16.20.84	hotyoungpussy.org
-172.16.20.84	icanhazip.com
+172.16.20.84	icanhazip.com # Ransomware
 172.16.20.84	ifindyouhere.info
 172.16.20.84	image.jordan13acheap.com # Picture with embedded Malware
 172.16.20.84	important-update.netsecurityalerts.com
@@ -3666,6 +3824,7 @@
 172.16.20.84	www.soft32.com
 172.16.20.84	www.sportsreviews.com
 172.16.20.84	www.surveysandpromotionsonline.com
+172.16.20.84	www.sushichefgames.com
 172.16.20.84	www.svqdys.com
 172.16.20.84	www.syncios.com # Picture with embedded Malware
 172.16.20.84	www.tapbreaker.com
