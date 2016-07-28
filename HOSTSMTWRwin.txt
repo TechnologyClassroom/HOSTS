@@ -2358,6 +2358,7 @@
 127.0.0.1	marvel-hotel.org
 127.0.0.1	mcupdate.tumblr.com
 127.0.0.1	mg.my.com
+127.0.0.1	minecraftforfreex.com
 127.0.0.1	minecraftgames.info
 127.0.0.1	mjwstc.game321.com
 127.0.0.1	moviestargame.blogspot.com
