@@ -10,6 +10,7 @@
 # FRIDAY ONLY Games
 # Search terms: Friv, juegos, jogos, games, y8, kizi, returnman, agame, coolmath, yepi, play, and combinations of those, girl games, super mario games, elsa games (7 pages), flash games (9), dress up games (7p), friv kizi juegos yepi (4p), princess games (6p), hello kitty games, iron spider games (5p), virtual driving games, ben 10 games (4p), unity games online, shockwave games, candy games, bmx games, flash games (9p), io games, angry birds, and "1..9999games"
 #127.0.0.1	scratch.mit.edu
+#127.0.0.1	www.mixels.asia
 #127.0.0.1	www.sheppardsoftware.com
 127.0.0.1	1-on-1-soccer.gamesxl.com
 127.0.0.1	1-player.friv.asia # Ping these to lower the amount of entries
@@ -569,6 +570,7 @@
 127.0.0.1	mathgamesaz.com
 127.0.0.1	maze.friv.asia
 127.0.0.1	media.y8.com
+127.0.0.1	megaunblocked.com
 127.0.0.1	memory-game.friv.asia
 127.0.0.1	memory-games.aoleonthemartiangirl.com
 127.0.0.1	mickey-mouse.gamesxl.com
@@ -676,7 +678,9 @@
 127.0.0.1	playreturnman2.org
 127.0.0.1	playreturnman3.com
 127.0.0.1	playstation.com
+127.0.0.1	playunfairmario.net
 127.0.0.1	poki.com
+127.0.0.1	pokionline.com
 127.0.0.1	police.gamesxl.com
 127.0.0.1	pollypocket.com
 127.0.0.1	popeye.gamesxl.com
@@ -868,6 +872,7 @@
 127.0.0.1	thefrozengames.com
 127.0.0.1	thefusejoplin.com
 127.0.0.1	thegamerstop.com
+127.0.0.1	thegamingboard.weebly.com
 127.0.0.1	theimpossiblequiz.info
 127.0.0.1	theimpossiblequiz.me
 127.0.0.1	theimpossiblequiz.net
@@ -1364,6 +1369,7 @@
 127.0.0.1	www.glittergames.com
 127.0.0.1	www.glowmonkey.com
 127.0.0.1	www.glulo.com
+127.0.0.1	www.gogy.com
 127.0.0.1	www.goldfishfun.com
 127.0.0.1	www.goldhairgames.com
 127.0.0.1	www.googlefeud.com
@@ -1822,6 +1828,7 @@
 127.0.0.1	www.yoob.com
 127.0.0.1	www.yoyogames.me.com
 127.0.0.1	www.yy8.biz
+127.0.0.1	www.z14.com
 127.0.0.1	www.zapak.com
 127.0.0.1	www.zapxo.com
 127.0.0.1	www.zoorly.com
@@ -3817,6 +3824,7 @@
 127.0.0.1	www.soft32.com
 127.0.0.1	www.sportsreviews.com
 127.0.0.1	www.surveysandpromotionsonline.com
+127.0.0.1	www.sushichefgames.com
 127.0.0.1	www.svqdys.com
 127.0.0.1	www.syncios.com # Picture with embedded Malware
 127.0.0.1	www.tapbreaker.com
