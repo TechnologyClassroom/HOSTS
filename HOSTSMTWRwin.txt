@@ -2767,6 +2767,7 @@
 127.0.0.1	supersmashflash2a.com
 127.0.0.1	supersmashflash2hacked.com
 127.0.0.1	supersmashflash2unblocked.info
+127.0.0.1	supersmashflash2unblocked.us
 127.0.0.1	supersmashflash3x.net
 127.0.0.1	supersmashflash3x.org
 127.0.0.1	supersmashflash4x.com
