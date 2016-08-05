@@ -2698,6 +2698,7 @@
 127.0.0.1	love.ubala.com
 127.0.0.1	mcleodgaming.com
 127.0.0.1	microsite.nintendo-europe.com
+127.0.0.1	my.4399.com
 127.0.0.1	mytanktrouble.org
 127.0.0.1	na.wargaming.net
 127.0.0.1	naruto.banainamcogames.com
@@ -2846,6 +2847,7 @@
 127.0.0.1	www.1cargames.com
 127.0.0.1	www.2player.com
 127.0.0.1	www.4223.com
+127.0.0.1	www.4339.com
 127.0.0.1	www.6zar.com
 127.0.0.1	www.80r.com
 127.0.0.1	www.9game.com
@@ -2979,6 +2981,7 @@
 127.0.0.1	www.unblockedgames1.com
 127.0.0.1	www.unblockedgames2.com
 127.0.0.1	www.unblockedgames5.com
+127.0.0.1	www.unblockedgamesonline.co
 127.0.0.1	www.unblockedgamesroom.com
 127.0.0.1	www.unblockedgamesite.com
 127.0.0.1	www.unblockedgamesmania.com
@@ -2989,6 +2992,7 @@
 127.0.0.1	www.xpmath.com
 127.0.0.1	www.y7.vc
 127.0.0.1	www.y8unblocked.com
+127.0.0.1	www.y5freegames.com
 127.0.0.1	www.zepetto.com
 127.0.0.1	www.zombocalypse.net
 127.0.0.1	youlendir.me
