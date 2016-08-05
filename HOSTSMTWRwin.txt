@@ -12,6 +12,11 @@
 #127.0.0.1	scratch.mit.edu
 #127.0.0.1	www.mixels.asia
 #127.0.0.1	www.sheppardsoftware.com
+127.0.0.1	hopye.com
+127.0.0.1	y8xl.com
+127.0.0.1	www.nitrome.com
+127.0.0.1	www.gogygames.org
+127.0.0.1	www.kizigames.com
 127.0.0.1	1-on-1-soccer.gamesxl.com
 127.0.0.1	1-player.friv.asia # Ping these to lower the amount of entries
 127.0.0.1	1-player.lovey8.com
@@ -2587,11 +2592,16 @@
 
 # Games with inappropriate content
 # search fighting games, surgery games, blood games, gore games, killing games, happy wheels, get on top, tank trouble, unblocked games
+127.0.0.1	agariohit.com
+127.0.0.1	agarioprivateserver.com
+127.0.0.1	agarioprivateserver.net
+127.0.0.1	agarioprivateserver.org
 127.0.0.1	happywheelsunblocked.us
 127.0.0.1	happywheels10.com
 127.0.0.1	*box10com.net
 127.0.0.1	1-vs-1-fights.gamesxl.com
 127.0.0.1	198.57.204.55 # www.juegosipo.com
+127.0.0.1	2tanktrouble.com
 127.0.0.1	3plazmaburst.com
 127.0.0.1	5xplay.com
 127.0.0.1	666games.net
@@ -2940,6 +2950,7 @@
 127.0.0.1	www.r2games.com
 127.0.0.1	www.riaz.ch #warez
 127.0.0.1	www.rockstargames.com
+127.0.0.1	www.runninjarun.com
 127.0.0.1	www.screwattack.com
 127.0.0.1	www.shootinggames.org
 127.0.0.1	www.silvergames.com
@@ -2965,6 +2976,7 @@
 127.0.0.1	www.unblockedgames1.com
 127.0.0.1	www.unblockedgames2.com
 127.0.0.1	www.unblockedgames5.com
+127.0.0.1	www.unblockedgamesroom.com
 127.0.0.1	www.unblockedgamesite.com
 127.0.0.1	www.unblockedgamesmania.com
 127.0.0.1	www.veryclip.com
@@ -3653,6 +3665,7 @@
 
 
 # Spam / Sec
+# This includes game websites that require browser addons (many of which add ads to every website and have the virus user experience)
 127.0.0.1	11165236-10472966.id2.clickvalidate.com
 127.0.0.1	11165368-30835.id2.clickvalidate.com
 127.0.0.1	188.138.88.184 #Locky Ransomware
@@ -3708,6 +3721,7 @@
 127.0.0.1	freemaintenance.check4free.top
 127.0.0.1	freesearchquick.com
 127.0.0.1	funwebproducts.com
+127.0.0.1	gamescrystal.com
 127.0.0.1	gamesyard.com
 127.0.0.1	garageband.soft32.com
 127.0.0.1	genieo.com
@@ -3776,6 +3790,7 @@
 127.0.0.1	supersmashflash3x.com # leads to malware
 127.0.0.1	surveyrewards-netweb.com
 127.0.0.1	trafficbauss.com
+127.0.0.1	tt.gamescrystal.com
 127.0.0.1	ttkkx21.xyz
 127.0.0.1	us.com-daily-rewards.com
 127.0.0.1	us.wow.com
@@ -3807,6 +3822,7 @@
 127.0.0.1	www.freezipmac.net
 127.0.0.1	www.friq.com
 127.0.0.1	www.fromdoctopdf.com
+127.0.0.1	www.gamescrystal.com
 127.0.0.1	www.gamesflight.com
 127.0.0.1	www.gamesyard.com
 127.0.0.1	www.genieo.com
