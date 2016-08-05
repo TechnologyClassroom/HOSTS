@@ -2597,6 +2597,7 @@
 127.0.0.1	agarioprivateserver.com
 127.0.0.1	agarioprivateserver.net
 127.0.0.1	agarioprivateserver.org
+127.0.0.1	agariounblocked.net
 127.0.0.1	happywheelsunblocked.us
 127.0.0.1	happywheels10.com
 127.0.0.1	*box10com.net
@@ -2737,6 +2738,7 @@
 127.0.0.1	qiqigames.com
 127.0.0.1	r2games.com
 127.0.0.1	r9atkis.wikispaces.com
+127.0.0.1	robloxaz.com
 127.0.0.1	robotblastplanet.pl
 127.0.0.1	rockstargames.com
 127.0.0.1	runingfred.net
