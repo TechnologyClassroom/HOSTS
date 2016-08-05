@@ -12,6 +12,7 @@
 #127.0.0.1	scratch.mit.edu
 #127.0.0.1	www.mixels.asia
 #127.0.0.1	www.sheppardsoftware.com
+127.0.0.1	www.gamesodo.com
 127.0.0.1	hopye.com
 127.0.0.1	y8xl.com
 127.0.0.1	www.nitrome.com
