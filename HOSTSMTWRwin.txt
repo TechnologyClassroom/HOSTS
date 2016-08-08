@@ -14,6 +14,7 @@
 #127.0.0.1	www.sheppardsoftware.com
 127.0.0.1	www.gamesodo.com
 127.0.0.1	hopye.com
+127.0.0.1	www.gogy.link
 127.0.0.1	y8xl.com
 127.0.0.1	www.nitrome.com
 127.0.0.1	www.gogygames.org
