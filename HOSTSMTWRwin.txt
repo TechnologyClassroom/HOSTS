@@ -1835,6 +1835,7 @@
 127.0.0.1	www.yoob.com
 127.0.0.1	www.yoyogames.me.com
 127.0.0.1	www.yy8.biz
+127.0.0.1	z14.com
 127.0.0.1	www.z14.com
 127.0.0.1	www.zapak.com
 127.0.0.1	www.zapxo.com
