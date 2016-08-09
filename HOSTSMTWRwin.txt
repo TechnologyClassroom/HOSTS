@@ -3865,6 +3865,7 @@
 127.0.0.1	www.viracure.com
 127.0.0.1	www.yieldtraffic.com
 127.0.0.1	xb11766.com
+127.0.0.1	www.y8.cm
 127.0.0.1	y8.cm
 127.0.0.1	yourcomputerhaveaseriousproblemspleasecallonnumberbelowtollfree.yourcomputerhaveaseriousproblemspleasecallonnumberbelowtollfree.yourcomputerhaveaseriousproblemspleasecallonnumberbelowtollfree.internet-protocol-server-alert.us
 127.0.0.1	zb1.zeroredirect1.com
