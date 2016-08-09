@@ -1378,7 +1378,6 @@
 127.0.0.1	www.glittergames.com
 127.0.0.1	www.glowmonkey.com
 127.0.0.1	www.glulo.com
-127.0.0.1	www.gogy.com
 127.0.0.1	www.goldfishfun.com
 127.0.0.1	www.goldhairgames.com
 127.0.0.1	www.googlefeud.com
@@ -2609,6 +2608,7 @@
 127.0.0.1	198.57.204.55 # www.juegosipo.com
 127.0.0.1	2tanktrouble.com
 127.0.0.1	3plazmaburst.com
+127.0.0.1	4supersmashflash.com
 127.0.0.1	5xplay.com
 127.0.0.1	666games.net
 127.0.0.1	8shooter.com
@@ -2910,6 +2910,7 @@
 127.0.0.1	www.girlgames1.com
 127.0.0.1	www.girlgamesclub.com
 127.0.0.1	www.globulos.com
+127.0.0.1	www.gogy.com
 127.0.0.1	www.gokugames.org
 127.0.0.1	www.gry.jeja.pl
 127.0.0.1	www.gryna2.pl
@@ -3968,6 +3969,7 @@
 127.0.0.1	ff4a487e56259f4bd5831e9e30470e83.azr.msnetworkanalytics.testanalytics.net
 127.0.0.1	flex.msn.com
 127.0.0.1	flex.msn.com.nsatc.net
+127.0.0.1	free.gamingwonderland.com
 127.0.0.1	g.msn.com
 127.0.0.1	g.msn.com.nsatc.net
 127.0.0.1	geo-prod.do.dsp.mp.microsoft.com
@@ -3984,11 +3986,13 @@
 127.0.0.1	licensing.md.mp.microsoft.com
 127.0.0.1	live.rads.msn.com
 127.0.0.1	livetileedge.dsx.mp.microsoft.com
+127.0.0.1	lmino9.xyz
 127.0.0.1	logging.windows.microsoft.com
 127.0.0.1	m.adnxs.com
 127.0.0.1	m.anycast.adnxs.com
 127.0.0.1	mediadiscovery.microsoft.com
 127.0.0.1	microsoft-hohm.com
+127.0.0.1	moviepassage.com
 127.0.0.1	msftncsi.com
 127.0.0.1	msnbot-65-55-108-23.search.msn.com
 127.0.0.1	msnportal.112.2o7.net
@@ -4067,5 +4071,7 @@
 127.0.0.1	watson.telemetry.microsoft.com.nsatc.net
 127.0.0.1	wes.df.telemetry.microsoft.com
 127.0.0.1	win10.ipv6.microsoft.com.nsatc.net
+127.0.0.1	windows-systems.online
+127.0.0.1	windowsnotice.com
 127.0.0.1	www.modern.ie
 127.0.0.1	www.msftncsi.com
