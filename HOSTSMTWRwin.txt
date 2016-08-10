@@ -12,6 +12,7 @@
 #127.0.0.1	scratch.mit.edu
 #127.0.0.1	www.mixels.asia
 #127.0.0.1	www.sheppardsoftware.com
+127.0.0.1	2048game.com
 127.0.0.1	www.gamesodo.com
 127.0.0.1	unblocked7202.weebly.com
 127.0.0.1	*.weebly.com
