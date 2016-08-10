@@ -3400,7 +3400,7 @@
 
 
 
-# Minetest Servers from servers.minetest.ru 20150720 and servers.minetest.net 20160610
+# Minetest Servers from servers.minetest.ru 2015-07-20 and servers.minetest.net 2016-06-10
 #Public Serverlist in game Update Needed
 127.0.0.1	0gb.us
 127.0.0.1	104.131.62.35
