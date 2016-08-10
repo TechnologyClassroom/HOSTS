@@ -1,5 +1,5 @@
 ##
-# Host Database # Updated 20160728
+# Host Database # Updated 20160810
 # Michael McMahon
 #
 # localhost is used to configure the loopback interface.
@@ -515,6 +515,7 @@
 172.16.20.84	marvel-hotel.org
 172.16.20.84	mcupdate.tumblr.com
 172.16.20.84	mg.my.com
+172.16.20.84	minecraftforfreex.com
 172.16.20.84	minecraftgames.info
 172.16.20.84	mjwstc.game321.com
 172.16.20.84	moviestargame.blogspot.com
@@ -743,12 +744,19 @@
 
 # Games with inappropriate content
 # search fighting games, surgery games, blood games, gore games, killing games, happy wheels, get on top, tank trouble, unblocked games
+172.16.20.84	agariohit.com
+172.16.20.84	agarioprivateserver.com
+172.16.20.84	agarioprivateserver.net
+172.16.20.84	agarioprivateserver.org
+172.16.20.84	agariounblocked.net
 172.16.20.84	happywheelsunblocked.us
 172.16.20.84	happywheels10.com
 172.16.20.84	*box10com.net
 172.16.20.84	1-vs-1-fights.gamesxl.com
 172.16.20.84	198.57.204.55 # www.juegosipo.com
+172.16.20.84	2tanktrouble.com
 172.16.20.84	3plazmaburst.com
+172.16.20.84	4supersmashflash.com
 172.16.20.84	5xplay.com
 172.16.20.84	666games.net
 172.16.20.84	8shooter.com
@@ -842,6 +850,7 @@
 172.16.20.84	love.ubala.com
 172.16.20.84	mcleodgaming.com
 172.16.20.84	microsite.nintendo-europe.com
+172.16.20.84	my.4399.com
 172.16.20.84	mytanktrouble.org
 172.16.20.84	na.wargaming.net
 172.16.20.84	naruto.banainamcogames.com
@@ -882,6 +891,7 @@
 172.16.20.84	qiqigames.com
 172.16.20.84	r2games.com
 172.16.20.84	r9atkis.wikispaces.com
+172.16.20.84	robloxaz.com
 172.16.20.84	robotblastplanet.pl
 172.16.20.84	rockstargames.com
 172.16.20.84	runingfred.net
@@ -923,6 +933,7 @@
 172.16.20.84	supersmashflash2a.com
 172.16.20.84	supersmashflash2hacked.com
 172.16.20.84	supersmashflash2unblocked.info
+172.16.20.84	supersmashflash2unblocked.us
 172.16.20.84	supersmashflash3x.net
 172.16.20.84	supersmashflash3x.org
 172.16.20.84	supersmashflash4x.com
@@ -988,6 +999,7 @@
 172.16.20.84	www.1cargames.com
 172.16.20.84	www.2player.com
 172.16.20.84	www.4223.com
+172.16.20.84	www.4339.com
 172.16.20.84	www.6zar.com
 172.16.20.84	www.80r.com
 172.16.20.84	www.9game.com
@@ -1046,6 +1058,7 @@
 172.16.20.84	www.girlgames1.com
 172.16.20.84	www.girlgamesclub.com
 172.16.20.84	www.globulos.com
+172.16.20.84	www.gogy.com
 172.16.20.84	www.gokugames.org
 172.16.20.84	www.gry.jeja.pl
 172.16.20.84	www.gryna2.pl
@@ -1095,6 +1108,7 @@
 172.16.20.84	www.r2games.com
 172.16.20.84	www.riaz.ch #warez
 172.16.20.84	www.rockstargames.com
+172.16.20.84	www.runninjarun.com
 172.16.20.84	www.screwattack.com
 172.16.20.84	www.shootinggames.org
 172.16.20.84	www.silvergames.com
@@ -1120,6 +1134,8 @@
 172.16.20.84	www.unblockedgames1.com
 172.16.20.84	www.unblockedgames2.com
 172.16.20.84	www.unblockedgames5.com
+172.16.20.84	www.unblockedgamesonline.co
+172.16.20.84	www.unblockedgamesroom.com
 172.16.20.84	www.unblockedgamesite.com
 172.16.20.84	www.unblockedgamesmania.com
 172.16.20.84	www.veryclip.com
@@ -1129,6 +1145,7 @@
 172.16.20.84	www.xpmath.com
 172.16.20.84	www.y7.vc
 172.16.20.84	www.y8unblocked.com
+172.16.20.84	www.y5freegames.com
 172.16.20.84	www.zepetto.com
 172.16.20.84	www.zombocalypse.net
 172.16.20.84	youlendir.me
@@ -1531,7 +1548,7 @@
 
 
 
-# Minetest Servers from servers.minetest.ru 20150720 and servers.minetest.net 20160610
+# Minetest Servers from servers.minetest.ru 2015-07-20 and servers.minetest.net 2016-06-10
 #Public Serverlist in game Update Needed
 172.16.20.84	0gb.us
 172.16.20.84	104.131.62.35
@@ -1808,8 +1825,9 @@
 
 
 # Spam / Sec
-172.16.20.84	11165236-10472966.id2.clickvalidate.com
-172.16.20.84	11165368-30835.id2.clickvalidate.com
+# This includes game websites that require browser addons (many of which add ads to every website and have the virus user experience)
+172.16.20.84	20160810-20160810.id2.clickvalidate.com
+172.16.20.84	20160810-30835.id2.clickvalidate.com
 172.16.20.84	188.138.88.184 #Locky Ransomware
 172.16.20.84	23.235.39.249
 172.16.20.84	31.41.47.37 #Locky Ransomware
@@ -1863,6 +1881,7 @@
 172.16.20.84	freemaintenance.check4free.top
 172.16.20.84	freesearchquick.com
 172.16.20.84	funwebproducts.com
+172.16.20.84	gamescrystal.com
 172.16.20.84	gamesyard.com
 172.16.20.84	garageband.soft32.com
 172.16.20.84	genieo.com
@@ -1931,12 +1950,13 @@
 172.16.20.84	supersmashflash3x.com # leads to malware
 172.16.20.84	surveyrewards-netweb.com
 172.16.20.84	trafficbauss.com
+172.16.20.84	tt.gamescrystal.com
 172.16.20.84	ttkkx21.xyz
 172.16.20.84	us.com-daily-rewards.com
 172.16.20.84	us.wow.com
 172.16.20.84	videopuginupdates.net
 172.16.20.84	virus--scan.com
-172.16.20.84	warning0314.16hb70527870.security-breach.bid
+172.16.20.84	warning0314.16hb20160810.security-breach.bid
 172.16.20.84	welcome2cali.com # Picture with embedded Malware
 172.16.20.84	windowssoftwaresite.com
 172.16.20.84	winsecurity247.com
@@ -1962,6 +1982,7 @@
 172.16.20.84	www.freezipmac.net
 172.16.20.84	www.friq.com
 172.16.20.84	www.fromdoctopdf.com
+172.16.20.84	www.gamescrystal.com
 172.16.20.84	www.gamesflight.com
 172.16.20.84	www.gamesyard.com
 172.16.20.84	www.genieo.com
@@ -1993,6 +2014,7 @@
 172.16.20.84	www.viracure.com
 172.16.20.84	www.yieldtraffic.com
 172.16.20.84	xb11766.com
+172.16.20.84	www.y8.cm
 172.16.20.84	y8.cm
 172.16.20.84	yourcomputerhaveaseriousproblemspleasecallonnumberbelowtollfree.yourcomputerhaveaseriousproblemspleasecallonnumberbelowtollfree.yourcomputerhaveaseriousproblemspleasecallonnumberbelowtollfree.internet-protocol-server-alert.us
 172.16.20.84	zb1.zeroredirect1.com
@@ -2095,6 +2117,7 @@
 172.16.20.84	ff4a487e56259f4bd5831e9e30470e83.azr.msnetworkanalytics.testanalytics.net
 172.16.20.84	flex.msn.com
 172.16.20.84	flex.msn.com.nsatc.net
+172.16.20.84	free.gamingwonderland.com
 172.16.20.84	g.msn.com
 172.16.20.84	g.msn.com.nsatc.net
 172.16.20.84	geo-prod.do.dsp.mp.microsoft.com
@@ -2111,11 +2134,13 @@
 172.16.20.84	licensing.md.mp.microsoft.com
 172.16.20.84	live.rads.msn.com
 172.16.20.84	livetileedge.dsx.mp.microsoft.com
+172.16.20.84	lmino9.xyz
 172.16.20.84	logging.windows.microsoft.com
 172.16.20.84	m.adnxs.com
 172.16.20.84	m.anycast.adnxs.com
 172.16.20.84	mediadiscovery.microsoft.com
 172.16.20.84	microsoft-hohm.com
+172.16.20.84	moviepassage.com
 172.16.20.84	msftncsi.com
 172.16.20.84	msnbot-65-55-108-23.search.msn.com
 172.16.20.84	msnportal.112.2o7.net
@@ -2194,5 +2219,7 @@
 172.16.20.84	watson.telemetry.microsoft.com.nsatc.net
 172.16.20.84	wes.df.telemetry.microsoft.com
 172.16.20.84	win10.ipv6.microsoft.com.nsatc.net
+172.16.20.84	windows-systems.online
+172.16.20.84	windowsnotice.com
 172.16.20.84	www.modern.ie
 172.16.20.84	www.msftncsi.com
