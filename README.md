@@ -19,3 +19,9 @@ There are five main types of files here.
 I am looking for help with the following:
   * adding domains to this list
   * correcting improper categorazation
+
+More information:
+  * localhost is used to configure the loopback interface.
+  * Loopbacks can redirect the domain to the IP address of your choosing.
+  * 127.0.0.1 goes nowhere.
+  * LS files can redirect inappropriate websites to a local web server full of constructive opportunities.  This is much better than the alternative of hitting a content filter dead end.
