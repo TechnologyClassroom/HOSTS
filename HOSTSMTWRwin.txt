@@ -1,5 +1,5 @@
 ##
-# Host Database # Updated 20160610
+# Host Database # Updated 20160810
 # Michael McMahon
 #
 # localhost is used to configure the loopback interface.
@@ -10,7 +10,18 @@
 # FRIDAY ONLY Games
 # Search terms: Friv, juegos, jogos, games, y8, kizi, returnman, agame, coolmath, yepi, play, and combinations of those, girl games, super mario games, elsa games (7 pages), flash games (9), dress up games (7p), friv kizi juegos yepi (4p), princess games (6p), hello kitty games, iron spider games (5p), virtual driving games, ben 10 games (4p), unity games online, shockwave games, candy games, bmx games, flash games (9p), io games, angry birds, and "1..9999games"
 #127.0.0.1	scratch.mit.edu
+#127.0.0.1	www.mixels.asia
 #127.0.0.1	www.sheppardsoftware.com
+127.0.0.1	2048game.com
+127.0.0.1	www.gamesodo.com
+127.0.0.1	unblocked7202.weebly.com
+127.0.0.1	*.weebly.com
+127.0.0.1	hopye.com
+127.0.0.1	www.gogy.link
+127.0.0.1	y8xl.com
+127.0.0.1	www.nitrome.com
+127.0.0.1	www.gogygames.org
+127.0.0.1	www.kizigames.com
 127.0.0.1	1-on-1-soccer.gamesxl.com
 127.0.0.1	1-player.friv.asia # Ping these to lower the amount of entries
 127.0.0.1	1-player.lovey8.com
@@ -569,6 +580,7 @@
 127.0.0.1	mathgamesaz.com
 127.0.0.1	maze.friv.asia
 127.0.0.1	media.y8.com
+127.0.0.1	megaunblocked.com
 127.0.0.1	memory-game.friv.asia
 127.0.0.1	memory-games.aoleonthemartiangirl.com
 127.0.0.1	mickey-mouse.gamesxl.com
@@ -676,7 +688,9 @@
 127.0.0.1	playreturnman2.org
 127.0.0.1	playreturnman3.com
 127.0.0.1	playstation.com
+127.0.0.1	playunfairmario.net
 127.0.0.1	poki.com
+127.0.0.1	pokionline.com
 127.0.0.1	police.gamesxl.com
 127.0.0.1	pollypocket.com
 127.0.0.1	popeye.gamesxl.com
@@ -868,6 +882,7 @@
 127.0.0.1	thefrozengames.com
 127.0.0.1	thefusejoplin.com
 127.0.0.1	thegamerstop.com
+127.0.0.1	thegamingboard.weebly.com
 127.0.0.1	theimpossiblequiz.info
 127.0.0.1	theimpossiblequiz.me
 127.0.0.1	theimpossiblequiz.net
@@ -1822,6 +1837,8 @@
 127.0.0.1	www.yoob.com
 127.0.0.1	www.yoyogames.me.com
 127.0.0.1	www.yy8.biz
+127.0.0.1	z14.com
+127.0.0.1	www.z14.com
 127.0.0.1	www.zapak.com
 127.0.0.1	www.zapxo.com
 127.0.0.1	www.zoorly.com
@@ -2351,6 +2368,7 @@
 127.0.0.1	marvel-hotel.org
 127.0.0.1	mcupdate.tumblr.com
 127.0.0.1	mg.my.com
+127.0.0.1	minecraftforfreex.com
 127.0.0.1	minecraftgames.info
 127.0.0.1	mjwstc.game321.com
 127.0.0.1	moviestargame.blogspot.com
@@ -2579,12 +2597,19 @@
 
 # Games with inappropriate content
 # search fighting games, surgery games, blood games, gore games, killing games, happy wheels, get on top, tank trouble, unblocked games
+127.0.0.1	agariohit.com
+127.0.0.1	agarioprivateserver.com
+127.0.0.1	agarioprivateserver.net
+127.0.0.1	agarioprivateserver.org
+127.0.0.1	agariounblocked.net
 127.0.0.1	happywheelsunblocked.us
 127.0.0.1	happywheels10.com
 127.0.0.1	*box10com.net
 127.0.0.1	1-vs-1-fights.gamesxl.com
 127.0.0.1	198.57.204.55 # www.juegosipo.com
+127.0.0.1	2tanktrouble.com
 127.0.0.1	3plazmaburst.com
+127.0.0.1	4supersmashflash.com
 127.0.0.1	5xplay.com
 127.0.0.1	666games.net
 127.0.0.1	8shooter.com
@@ -2678,6 +2703,7 @@
 127.0.0.1	love.ubala.com
 127.0.0.1	mcleodgaming.com
 127.0.0.1	microsite.nintendo-europe.com
+127.0.0.1	my.4399.com
 127.0.0.1	mytanktrouble.org
 127.0.0.1	na.wargaming.net
 127.0.0.1	naruto.banainamcogames.com
@@ -2718,6 +2744,7 @@
 127.0.0.1	qiqigames.com
 127.0.0.1	r2games.com
 127.0.0.1	r9atkis.wikispaces.com
+127.0.0.1	robloxaz.com
 127.0.0.1	robotblastplanet.pl
 127.0.0.1	rockstargames.com
 127.0.0.1	runingfred.net
@@ -2759,6 +2786,7 @@
 127.0.0.1	supersmashflash2a.com
 127.0.0.1	supersmashflash2hacked.com
 127.0.0.1	supersmashflash2unblocked.info
+127.0.0.1	supersmashflash2unblocked.us
 127.0.0.1	supersmashflash3x.net
 127.0.0.1	supersmashflash3x.org
 127.0.0.1	supersmashflash4x.com
@@ -2824,6 +2852,7 @@
 127.0.0.1	www.1cargames.com
 127.0.0.1	www.2player.com
 127.0.0.1	www.4223.com
+127.0.0.1	www.4339.com
 127.0.0.1	www.6zar.com
 127.0.0.1	www.80r.com
 127.0.0.1	www.9game.com
@@ -2882,6 +2911,7 @@
 127.0.0.1	www.girlgames1.com
 127.0.0.1	www.girlgamesclub.com
 127.0.0.1	www.globulos.com
+127.0.0.1	www.gogy.com
 127.0.0.1	www.gokugames.org
 127.0.0.1	www.gry.jeja.pl
 127.0.0.1	www.gryna2.pl
@@ -2931,6 +2961,7 @@
 127.0.0.1	www.r2games.com
 127.0.0.1	www.riaz.ch #warez
 127.0.0.1	www.rockstargames.com
+127.0.0.1	www.runninjarun.com
 127.0.0.1	www.screwattack.com
 127.0.0.1	www.shootinggames.org
 127.0.0.1	www.silvergames.com
@@ -2956,6 +2987,8 @@
 127.0.0.1	www.unblockedgames1.com
 127.0.0.1	www.unblockedgames2.com
 127.0.0.1	www.unblockedgames5.com
+127.0.0.1	www.unblockedgamesonline.co
+127.0.0.1	www.unblockedgamesroom.com
 127.0.0.1	www.unblockedgamesite.com
 127.0.0.1	www.unblockedgamesmania.com
 127.0.0.1	www.veryclip.com
@@ -2965,6 +2998,7 @@
 127.0.0.1	www.xpmath.com
 127.0.0.1	www.y7.vc
 127.0.0.1	www.y8unblocked.com
+127.0.0.1	www.y5freegames.com
 127.0.0.1	www.zepetto.com
 127.0.0.1	www.zombocalypse.net
 127.0.0.1	youlendir.me
@@ -3367,7 +3401,7 @@
 
 
 
-# Minetest Servers from servers.minetest.ru 20150720 and servers.minetest.net 20160610
+# Minetest Servers from servers.minetest.ru 2015-07-20 and servers.minetest.net 2016-06-10
 #Public Serverlist in game Update Needed
 127.0.0.1	0gb.us
 127.0.0.1	104.131.62.35
@@ -3644,8 +3678,9 @@
 
 
 # Spam / Sec
-127.0.0.1	11165236-10472966.id2.clickvalidate.com
-127.0.0.1	11165368-30835.id2.clickvalidate.com
+# This includes game websites that require browser addons (many of which add ads to every website and have the virus user experience)
+127.0.0.1	20160810-20160810.id2.clickvalidate.com
+127.0.0.1	20160810-30835.id2.clickvalidate.com
 127.0.0.1	188.138.88.184 #Locky Ransomware
 127.0.0.1	23.235.39.249
 127.0.0.1	31.41.47.37 #Locky Ransomware
@@ -3699,6 +3734,7 @@
 127.0.0.1	freemaintenance.check4free.top
 127.0.0.1	freesearchquick.com
 127.0.0.1	funwebproducts.com
+127.0.0.1	gamescrystal.com
 127.0.0.1	gamesyard.com
 127.0.0.1	garageband.soft32.com
 127.0.0.1	genieo.com
@@ -3767,12 +3803,13 @@
 127.0.0.1	supersmashflash3x.com # leads to malware
 127.0.0.1	surveyrewards-netweb.com
 127.0.0.1	trafficbauss.com
+127.0.0.1	tt.gamescrystal.com
 127.0.0.1	ttkkx21.xyz
 127.0.0.1	us.com-daily-rewards.com
 127.0.0.1	us.wow.com
 127.0.0.1	videopuginupdates.net
 127.0.0.1	virus--scan.com
-127.0.0.1	warning0314.16hb70527870.security-breach.bid
+127.0.0.1	warning0314.16hb20160810.security-breach.bid
 127.0.0.1	welcome2cali.com # Picture with embedded Malware
 127.0.0.1	windowssoftwaresite.com
 127.0.0.1	winsecurity247.com
@@ -3798,6 +3835,7 @@
 127.0.0.1	www.freezipmac.net
 127.0.0.1	www.friq.com
 127.0.0.1	www.fromdoctopdf.com
+127.0.0.1	www.gamescrystal.com
 127.0.0.1	www.gamesflight.com
 127.0.0.1	www.gamesyard.com
 127.0.0.1	www.genieo.com
@@ -3817,6 +3855,7 @@
 127.0.0.1	www.soft32.com
 127.0.0.1	www.sportsreviews.com
 127.0.0.1	www.surveysandpromotionsonline.com
+127.0.0.1	www.sushichefgames.com
 127.0.0.1	www.svqdys.com
 127.0.0.1	www.syncios.com # Picture with embedded Malware
 127.0.0.1	www.tapbreaker.com
@@ -3828,6 +3867,7 @@
 127.0.0.1	www.viracure.com
 127.0.0.1	www.yieldtraffic.com
 127.0.0.1	xb11766.com
+127.0.0.1	www.y8.cm
 127.0.0.1	y8.cm
 127.0.0.1	yourcomputerhaveaseriousproblemspleasecallonnumberbelowtollfree.yourcomputerhaveaseriousproblemspleasecallonnumberbelowtollfree.yourcomputerhaveaseriousproblemspleasecallonnumberbelowtollfree.internet-protocol-server-alert.us
 127.0.0.1	zb1.zeroredirect1.com
@@ -3930,6 +3970,7 @@
 127.0.0.1	ff4a487e56259f4bd5831e9e30470e83.azr.msnetworkanalytics.testanalytics.net
 127.0.0.1	flex.msn.com
 127.0.0.1	flex.msn.com.nsatc.net
+127.0.0.1	free.gamingwonderland.com
 127.0.0.1	g.msn.com
 127.0.0.1	g.msn.com.nsatc.net
 127.0.0.1	geo-prod.do.dsp.mp.microsoft.com
@@ -3946,11 +3987,13 @@
 127.0.0.1	licensing.md.mp.microsoft.com
 127.0.0.1	live.rads.msn.com
 127.0.0.1	livetileedge.dsx.mp.microsoft.com
+127.0.0.1	lmino9.xyz
 127.0.0.1	logging.windows.microsoft.com
 127.0.0.1	m.adnxs.com
 127.0.0.1	m.anycast.adnxs.com
 127.0.0.1	mediadiscovery.microsoft.com
 127.0.0.1	microsoft-hohm.com
+127.0.0.1	moviepassage.com
 127.0.0.1	msftncsi.com
 127.0.0.1	msnbot-65-55-108-23.search.msn.com
 127.0.0.1	msnportal.112.2o7.net
@@ -4029,5 +4072,7 @@
 127.0.0.1	watson.telemetry.microsoft.com.nsatc.net
 127.0.0.1	wes.df.telemetry.microsoft.com
 127.0.0.1	win10.ipv6.microsoft.com.nsatc.net
+127.0.0.1	windows-systems.online
+127.0.0.1	windowsnotice.com
 127.0.0.1	www.modern.ie
 127.0.0.1	www.msftncsi.com

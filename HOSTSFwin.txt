@@ -1,10 +1,12 @@
 ##
-# Host Database # Updated 20160606
+# Host Database # Updated 20160810
 # Michael McMahon
 #
 # localhost is used to configure the loopback interface.
 # Loopbacks can redirect the domain to the IP address of your choosing.
-# 127.0.0.1	goes nowhere.
+# This will redirect inappropriate websites to a local web server
+# full of constructive opportunities.  This is much better than
+# the alternative of hitting a content filter dead end.
 ##
 
 # MTWR ONLY Poptropica Cheats
@@ -513,6 +515,7 @@
 127.0.0.1	marvel-hotel.org
 127.0.0.1	mcupdate.tumblr.com
 127.0.0.1	mg.my.com
+127.0.0.1	minecraftforfreex.com
 127.0.0.1	minecraftgames.info
 127.0.0.1	mjwstc.game321.com
 127.0.0.1	moviestargame.blogspot.com
@@ -541,6 +544,7 @@
 127.0.0.1	pirates.game321.com
 127.0.0.1	platform.everfi.net #maybe
 127.0.0.1	play.clubpenguin.com
+127.0.0.1	play.fantage.com
 127.0.0.1	playbobba.net
 127.0.0.1	playboon.me
 127.0.0.1	playfade.net
@@ -740,10 +744,19 @@
 
 # Games with inappropriate content
 # search fighting games, surgery games, blood games, gore games, killing games, happy wheels, get on top, tank trouble, unblocked games
+127.0.0.1	agariohit.com
+127.0.0.1	agarioprivateserver.com
+127.0.0.1	agarioprivateserver.net
+127.0.0.1	agarioprivateserver.org
+127.0.0.1	agariounblocked.net
+127.0.0.1	happywheelsunblocked.us
+127.0.0.1	happywheels10.com
 127.0.0.1	*box10com.net
 127.0.0.1	1-vs-1-fights.gamesxl.com
 127.0.0.1	198.57.204.55 # www.juegosipo.com
+127.0.0.1	2tanktrouble.com
 127.0.0.1	3plazmaburst.com
+127.0.0.1	4supersmashflash.com
 127.0.0.1	5xplay.com
 127.0.0.1	666games.net
 127.0.0.1	8shooter.com
@@ -794,6 +807,7 @@
 127.0.0.1	fighting.ubala.com
 127.0.0.1	first-person-shooter.newy8games.com
 127.0.0.1	first-person-shooter.ubala.com
+127.0.0.1	flash-gaming.weebly.com
 127.0.0.1	flavorshop.blogspot.com
 127.0.0.1	free-surgery-games.com
 127.0.0.1	freeonlineflashgames76.weebly.com
@@ -836,6 +850,7 @@
 127.0.0.1	love.ubala.com
 127.0.0.1	mcleodgaming.com
 127.0.0.1	microsite.nintendo-europe.com
+127.0.0.1	my.4399.com
 127.0.0.1	mytanktrouble.org
 127.0.0.1	na.wargaming.net
 127.0.0.1	naruto.banainamcogames.com
@@ -876,6 +891,7 @@
 127.0.0.1	qiqigames.com
 127.0.0.1	r2games.com
 127.0.0.1	r9atkis.wikispaces.com
+127.0.0.1	robloxaz.com
 127.0.0.1	robotblastplanet.pl
 127.0.0.1	rockstargames.com
 127.0.0.1	runingfred.net
@@ -917,6 +933,7 @@
 127.0.0.1	supersmashflash2a.com
 127.0.0.1	supersmashflash2hacked.com
 127.0.0.1	supersmashflash2unblocked.info
+127.0.0.1	supersmashflash2unblocked.us
 127.0.0.1	supersmashflash3x.net
 127.0.0.1	supersmashflash3x.org
 127.0.0.1	supersmashflash4x.com
@@ -982,6 +999,8 @@
 127.0.0.1	www.1cargames.com
 127.0.0.1	www.2player.com
 127.0.0.1	www.4223.com
+127.0.0.1	www.4339.com
+127.0.0.1	www.6zar.com
 127.0.0.1	www.80r.com
 127.0.0.1	www.9game.com
 127.0.0.1	www.a10.com
@@ -1039,6 +1058,7 @@
 127.0.0.1	www.girlgames1.com
 127.0.0.1	www.girlgamesclub.com
 127.0.0.1	www.globulos.com
+127.0.0.1	www.gogy.com
 127.0.0.1	www.gokugames.org
 127.0.0.1	www.gry.jeja.pl
 127.0.0.1	www.gryna2.pl
@@ -1088,6 +1108,7 @@
 127.0.0.1	www.r2games.com
 127.0.0.1	www.riaz.ch #warez
 127.0.0.1	www.rockstargames.com
+127.0.0.1	www.runninjarun.com
 127.0.0.1	www.screwattack.com
 127.0.0.1	www.shootinggames.org
 127.0.0.1	www.silvergames.com
@@ -1113,6 +1134,9 @@
 127.0.0.1	www.unblockedgames1.com
 127.0.0.1	www.unblockedgames2.com
 127.0.0.1	www.unblockedgames5.com
+127.0.0.1	www.unblockedgamesonline.co
+127.0.0.1	www.unblockedgamesroom.com
+127.0.0.1	www.unblockedgamesite.com
 127.0.0.1	www.unblockedgamesmania.com
 127.0.0.1	www.veryclip.com
 127.0.0.1	www.whackit.co
@@ -1121,6 +1145,7 @@
 127.0.0.1	www.xpmath.com
 127.0.0.1	www.y7.vc
 127.0.0.1	www.y8unblocked.com
+127.0.0.1	www.y5freegames.com
 127.0.0.1	www.zepetto.com
 127.0.0.1	www.zombocalypse.net
 127.0.0.1	youlendir.me
@@ -1144,6 +1169,7 @@
 127.0.0.1	www.icytower.com
 127.0.0.1	www.ironspeed.com
 127.0.0.1	www.spore.net
+127.0.0.1	www.thingames.com
 127.0.0.1	www.ziparcade.com
 
 
@@ -1522,84 +1548,178 @@
 
 
 
-# Minetest Servers from http://servers.minetest.ru/ 20150720
+# Minetest Servers from servers.minetest.ru 2015-07-20 and servers.minetest.net 2016-06-10
 #Public Serverlist in game Update Needed
 127.0.0.1	0gb.us
+127.0.0.1	104.131.62.35
 127.0.0.1	104.153.104.221
 127.0.0.1	108.94.133.186
 127.0.0.1	128.199.62.77
+127.0.0.1	131.234.130.13
+127.0.0.1	133.242.161.27
+127.0.0.1	139.59.238.211
+127.0.0.1	158.69.114.146
+127.0.0.1	158.69.223.79
+127.0.0.1	159.203.11.143
 127.0.0.1	162.156.68.250
+127.0.0.1	162.211.32.154
 127.0.0.1	162.247.155.246
+127.0.0.1	167.114.226.218
 127.0.0.1	174.110.145.201
+127.0.0.1	174.24.6.161
 127.0.0.1	178.223.104.148
 127.0.0.1	181.41.197.89
 127.0.0.1	188.40.69.134
 127.0.0.1	193.111.2.133
+127.0.0.1	194.186.240.94
 127.0.0.1	199.233.247.182
+127.0.0.1	204.106.248.97
 127.0.0.1	216.52.148.39
+127.0.0.1	217.160.13.85
+127.0.0.1	23.28.87.79
+127.0.0.1	24.91.130.179
 127.0.0.1	4.firc.de
+127.0.0.1	45.33.65.68
 127.0.0.1	50.88.239.147
+127.0.0.1	51.254.216.93
+127.0.0.1	52.39.150.123
 127.0.0.1	54.173.115.148
+127.0.0.1	54.213.82.180
+127.0.0.1	67.212.45.191
+127.0.0.1	67.250.55.119
 127.0.0.1	74.137.163.94
+127.0.0.1	78.147.160.135
+127.0.0.1	78.155.212.152
+127.0.0.1	78.218.216.2
+127.0.0.1	78.47.93.144
 127.0.0.1	78.84.8.185
 127.0.0.1	80.128.130.161
+127.0.0.1	80.129.21.162
+127.0.0.1	80.189.225.114
+127.0.0.1	81.169.215.250
+127.0.0.1	84.117.230.210
+127.0.0.1	84.211.98.175
 127.0.0.1	84.55.242.241
+127.0.0.1	85.214.208.91
 127.0.0.1	85.6.218.161
 127.0.0.1	86.135.170.238
 127.0.0.1	86.140.28.58
 127.0.0.1	87.110.8.195
+127.0.0.1	87.146.63.239
 127.0.0.1	91.117.128.68
+127.0.0.1	92.169.209.225
 127.0.0.1	94.23.33.108
+127.0.0.1	96.35.83.50
 127.0.0.1	98.166.169.32
+127.0.0.1	98.166.90.48
 127.0.0.1	98.237.133.224
+127.0.0.1	LinuxGaming.us
+127.0.0.1	LinuxGaming2.com
+127.0.0.1	amhi.ddns.net
 127.0.0.1	arg-team.ddns.net
+127.0.0.1	attack.telesight.nl
 127.0.0.1	aviactu.info
 127.0.0.1	backbone.ws
 127.0.0.1	beastyarik.chickenkiller.com
+127.0.0.1	beha.zapto.org
+127.0.0.1	breballove.ddns.net
+127.0.0.1	buildersworld.telesight.nl
 127.0.0.1	cg72server.d-n-s.name
+127.0.0.1	creativeplace.us
+127.0.0.1	cupcake.ftp.sh
+127.0.0.1	daconcepts.com
+127.0.0.1	darkside.zapto.org
+127.0.0.1	daswebmastri.com
 127.0.0.1	dev.minetest-france.fr
 127.0.0.1	digitalaudioconcepts.com
 127.0.0.1	digitalis.ga
+127.0.0.1	epixel.tuxsrv.fr
+127.0.0.1	exploranza.servegame.com
 127.0.0.1	familygrog.no-ip.org
+127.0.0.1	fishminer.mrbasic.com
+127.0.0.1	fivetwoone.ddns.net
 127.0.0.1	game.d-l-k.net
+127.0.0.1	game.halberd.de
 127.0.0.1	game.minetest-france.fr
+127.0.0.1	games.firc.de
 127.0.0.1	games.libreplanet.org
 127.0.0.1	games.tuxfamily.net
+127.0.0.1	h2o.minetest.in
+127.0.0.1	hasanalsamra.tk
 127.0.0.1	hexagon.hexagonsix.com
+127.0.0.1	illuna-minetest.tk
+127.0.0.1	internationalsurvivalgame.abilit.eu
 127.0.0.1	isotope.uk.to
+127.0.0.1	krondor.neoascetic.me
 127.0.0.1	kudisla.dlinkddns.com
-127.0.0.1	LinuxGaming.us
 127.0.0.1	linuxiuvat.de
 127.0.0.1	lunyasoft.eu
 127.0.0.1	m.ayntest.net
 127.0.0.1	mc-team.org
 127.0.0.1	mcboydesign.net
 127.0.0.1	midnightsystems.net
+127.0.0.1	mine.realmofespionage.xyz
+127.0.0.1	minemacro.tk
 127.0.0.1	minerealms.ddns.net
+127.0.0.1	mineserver.utopius.site
 127.0.0.1	minetest-cdk.servegame.com
+127.0.0.1	minetest-german.ddns.net
+127.0.0.1	minetest.akiba.fr
 127.0.0.1	minetest.b-paradise.eu
+127.0.0.1	minetest.boolshit.de
+127.0.0.1	minetest.davison.io
+127.0.0.1	minetest.euphobos.ru
 127.0.0.1	minetest.gunshippenguin.com
 127.0.0.1	minetest.inode64.com
 127.0.0.1	minetest.king-arthur.eu
 127.0.0.1	minetest.mc-team.org
 127.0.0.1	minetest.megaf.info
+127.0.0.1	minetest.oenings.de
 127.0.0.1	minetest.org
+127.0.0.1	minetest.parg-cws.de
 127.0.0.1	minetest.ru
+127.0.0.1	minetest.rubenwardy.com
+127.0.0.1	minetest.schule-erstfeld.ch
 127.0.0.1	minetest.ttyh.ru
 127.0.0.1	minetest.websynthesis.org
+127.0.0.1	minetest.zarnica.org.ua
+127.0.0.1	minetest.zock-server.de
+127.0.0.1	minetesthosting.com
 127.0.0.1	mt.megaf.info
+127.0.0.1	mt.rbose.org
+127.0.0.1	mt.thatgraemeguy.co.za
 127.0.0.1	mt1.gameboom.net
 127.0.0.1	mtzeno.com
+127.0.0.1	naib.telesight.nl
+127.0.0.1	nyje.e-it.gr
+127.0.0.1	nyx.no-ip.org
+127.0.0.1	paly2.ddns.net
+127.0.0.1	phase.ax.lt
+127.0.0.1	pixture.quelcom.xyz
+127.0.0.1	pranoke.utopari.xyz
+127.0.0.1	pts.epixel-game.net
 127.0.0.1	qbuissondebon.info
 127.0.0.1	redcrab.suret.net
+127.0.0.1	rrhgameservers.ddns.net
 127.0.0.1	selah.us.to
+127.0.0.1	servers.minetest.net
+127.0.0.1	servers.minetest.tv
 127.0.0.1	setun.net
 127.0.0.1	shadowninja.minetest.net
+127.0.0.1	shivajiva101.nsupdate.info
 127.0.0.1	spieler-stammtisch.de
 127.0.0.1	sss.chaoslab.ru
+127.0.0.1	sss.chaoslab.ru:
+127.0.0.1	stormchaser3000.noip.me
+127.0.0.1	survivalworld.telesight.nl
+127.0.0.1	survivorserverv7.ddns.net
+127.0.0.1	technoland.telesight.nl
+127.0.0.1	trainwrecktony.serveminecraft.net
 127.0.0.1	tuatec.ddns.net
+127.0.0.1	turtletango.duckdns.org
 127.0.0.1	vanessae.mine.bz
 127.0.0.1	vfserv.net
+127.0.0.1	vikingcrafters.ddns.net
 127.0.0.1	zenoheld.minetest.net
 
 
@@ -1626,6 +1746,7 @@
 
 # Streaming Video Sites
 127.0.0.1	abc.go.com
+127.0.0.1	achievementhunter.roosterteeth.com
 127.0.0.1	av.vimeo.com
 127.0.0.1	bigcontact.com
 127.0.0.1	blinkx.com
@@ -1638,6 +1759,7 @@
 127.0.0.1	dailymotion.com
 127.0.0.1	devilducky.com
 127.0.0.1	documentarystorm
+127.0.0.1	funhaus.roosterteeth.com
 127.0.0.1	gfycat.com
 127.0.0.1	hangouts.google.com
 127.0.0.1	ifilm.com
@@ -1651,7 +1773,9 @@
 127.0.0.1	phanfare.com
 127.0.0.1	putlocker.is # Illegal and full of malware popups
 127.0.0.1	revver.com
+127.0.0.1	roosterteeth.com
 127.0.0.1	screen.yahoo.com
+127.0.0.1	screwattack.roosterteeth.com
 127.0.0.1	sevenload.com
 127.0.0.1	speedytv.com
 127.0.0.1	stickam.com
@@ -1659,6 +1783,7 @@
 127.0.0.1	stupidvideos.com
 127.0.0.1	surround.verizon.com
 127.0.0.1	thatvideosite.com
+127.0.0.1	theknow.roosterteeth.com
 127.0.0.1	trueveo.com
 127.0.0.1	tvduck.com
 127.0.0.1	tvline.com
@@ -1700,14 +1825,18 @@
 
 
 # Spam / Sec
-127.0.0.1	11165236-10472966.id2.clickvalidate.com
-127.0.0.1	11165368-30835.id2.clickvalidate.com
+# This includes game websites that require browser addons (many of which add ads to every website and have the virus user experience)
+127.0.0.1	20160810-20160810.id2.clickvalidate.com
+127.0.0.1	20160810-30835.id2.clickvalidate.com
+127.0.0.1	188.138.88.184 #Locky Ransomware
 127.0.0.1	23.235.39.249
+127.0.0.1	31.41.47.37 #Locky Ransomware
 127.0.0.1	303l.fairfieldclassof63.com
 127.0.0.1	4302-avredlrect.com
 127.0.0.1	515srver.xyz
 127.0.0.1	555-123abvbcz99a50a11.com
 127.0.0.1	555-123abvbcz99a50all.com
+127.0.0.1	85.25.138.187 #Locky Ransomware
 127.0.0.1	a.tribalfusion.com
 127.0.0.1	ad.directrev.com
 127.0.0.1	adboss.com
@@ -1752,6 +1881,7 @@
 127.0.0.1	freemaintenance.check4free.top
 127.0.0.1	freesearchquick.com
 127.0.0.1	funwebproducts.com
+127.0.0.1	gamescrystal.com
 127.0.0.1	gamesyard.com
 127.0.0.1	garageband.soft32.com
 127.0.0.1	genieo.com
@@ -1761,7 +1891,7 @@
 127.0.0.1	homesecurityspecial.com
 127.0.0.1	hot2014rewards.com
 127.0.0.1	hotyoungpussy.org
-127.0.0.1	icanhazip.com
+127.0.0.1	icanhazip.com # Ransomware
 127.0.0.1	ifindyouhere.info
 127.0.0.1	image.jordan13acheap.com # Picture with embedded Malware
 127.0.0.1	important-update.netsecurityalerts.com
@@ -1820,12 +1950,13 @@
 127.0.0.1	supersmashflash3x.com # leads to malware
 127.0.0.1	surveyrewards-netweb.com
 127.0.0.1	trafficbauss.com
+127.0.0.1	tt.gamescrystal.com
 127.0.0.1	ttkkx21.xyz
 127.0.0.1	us.com-daily-rewards.com
 127.0.0.1	us.wow.com
 127.0.0.1	videopuginupdates.net
 127.0.0.1	virus--scan.com
-127.0.0.1	warning0314.16hb70527870.security-breach.bid
+127.0.0.1	warning0314.16hb20160810.security-breach.bid
 127.0.0.1	welcome2cali.com # Picture with embedded Malware
 127.0.0.1	windowssoftwaresite.com
 127.0.0.1	winsecurity247.com
@@ -1851,6 +1982,7 @@
 127.0.0.1	www.freezipmac.net
 127.0.0.1	www.friq.com
 127.0.0.1	www.fromdoctopdf.com
+127.0.0.1	www.gamescrystal.com
 127.0.0.1	www.gamesflight.com
 127.0.0.1	www.gamesyard.com
 127.0.0.1	www.genieo.com
@@ -1870,6 +2002,7 @@
 127.0.0.1	www.soft32.com
 127.0.0.1	www.sportsreviews.com
 127.0.0.1	www.surveysandpromotionsonline.com
+127.0.0.1	www.sushichefgames.com
 127.0.0.1	www.svqdys.com
 127.0.0.1	www.syncios.com # Picture with embedded Malware
 127.0.0.1	www.tapbreaker.com
@@ -1881,6 +2014,7 @@
 127.0.0.1	www.viracure.com
 127.0.0.1	www.yieldtraffic.com
 127.0.0.1	xb11766.com
+127.0.0.1	www.y8.cm
 127.0.0.1	y8.cm
 127.0.0.1	yourcomputerhaveaseriousproblemspleasecallonnumberbelowtollfree.yourcomputerhaveaseriousproblemspleasecallonnumberbelowtollfree.yourcomputerhaveaseriousproblemspleasecallonnumberbelowtollfree.internet-protocol-server-alert.us
 127.0.0.1	zb1.zeroredirect1.com
@@ -1983,6 +2117,7 @@
 127.0.0.1	ff4a487e56259f4bd5831e9e30470e83.azr.msnetworkanalytics.testanalytics.net
 127.0.0.1	flex.msn.com
 127.0.0.1	flex.msn.com.nsatc.net
+127.0.0.1	free.gamingwonderland.com
 127.0.0.1	g.msn.com
 127.0.0.1	g.msn.com.nsatc.net
 127.0.0.1	geo-prod.do.dsp.mp.microsoft.com
@@ -1999,11 +2134,13 @@
 127.0.0.1	licensing.md.mp.microsoft.com
 127.0.0.1	live.rads.msn.com
 127.0.0.1	livetileedge.dsx.mp.microsoft.com
+127.0.0.1	lmino9.xyz
 127.0.0.1	logging.windows.microsoft.com
 127.0.0.1	m.adnxs.com
 127.0.0.1	m.anycast.adnxs.com
 127.0.0.1	mediadiscovery.microsoft.com
 127.0.0.1	microsoft-hohm.com
+127.0.0.1	moviepassage.com
 127.0.0.1	msftncsi.com
 127.0.0.1	msnbot-65-55-108-23.search.msn.com
 127.0.0.1	msnportal.112.2o7.net
@@ -2082,5 +2219,7 @@
 127.0.0.1	watson.telemetry.microsoft.com.nsatc.net
 127.0.0.1	wes.df.telemetry.microsoft.com
 127.0.0.1	win10.ipv6.microsoft.com.nsatc.net
+127.0.0.1	windows-systems.online
+127.0.0.1	windowsnotice.com
 127.0.0.1	www.modern.ie
 127.0.0.1	www.msftncsi.com
