@@ -18,10 +18,10 @@ generally safe environment for children.  Creative projects would be made
 Monday-Thursday.
 
 WARNING: An unmanaged proprietary content filter was used in addition to these
-HOSTS files.  These lists are not complete and does not claim or attempt to be
+HOSTS files.  These lists are not complete and do not claim or attempt to be
 complete.
 
-If you have network access, I would recommend using the individual
+If you have router access, I would recommend using the individual
 [filters](https://github.com/TechnologyClassroom/HOSTS/blob/master/filters/)
 with a [Pi-hole](https://pi-hole.net/).
 
