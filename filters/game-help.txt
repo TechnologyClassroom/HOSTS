@@ -1,0 +1,105 @@
+##
+# Host Database # Updated 20160810
+#
+# The latest update can be found at
+# https://raw.githubusercontent.com/TechnologyClassroom/HOSTS/master/filters/game-help.txt
+#
+# Copyright © Michael McMahon 2011-2020. Except where otherwise specified, the
+# text on HOSTS by Michael McMahon is licensed under the Creative Commons
+# Attribution-ShareAlike License 4.0 (International) (CC-BY-SA 4.0).
+#
+# This list does not attempt to be complete and further lists are suggested.
+##
+
+# Poptropica Cheats
+127.0.0.1	almus.hu
+127.0.0.1	amypoptropicacheats.blogspot.com
+127.0.0.1	arj.gaylordindia.com
+127.0.0.1	bip.spr.pl
+127.0.0.1	blog.lib.umn.edu
+127.0.0.1	casafiore.eu
+127.0.0.1	cookspork78.wordpress.com
+127.0.0.1	designdonate.tk
+127.0.0.1	dotsub.com
+127.0.0.1	easyconsultbg.com
+127.0.0.1	espresso.blasercafe.by
+127.0.0.1	fatherdaycard.org
+127.0.0.1	finecredit.tk
+127.0.0.1	fragataeantunes.com.br
+127.0.0.1	frittmann.hu
+127.0.0.1	fuzzy-bspoptropicablog.blogspot.com
+127.0.0.1	fwb-consulting.com
+127.0.0.1	gamelist.bbgsite.com
+127.0.0.1	i-poptropica.blogspot.com
+127.0.0.1	icycomet.wordpress.com
+127.0.0.1	icyfoxpoptropica.wordpress.com
+127.0.0.1	industry-locs.com
+127.0.0.1	inqbo.net
+127.0.0.1	itsapoptropicablog.wordpress.com
+127.0.0.1	jsperf.com
+127.0.0.1	merlettigiardini.it
+127.0.0.1	moosesautotech.com
+127.0.0.1	nauvissi13.ga
+127.0.0.1	poptropica-island-secrets.blogspot.com
+127.0.0.1	poptropica.answers.wikia.com
+127.0.0.1	poptropica.newzgames.com
+127.0.0.1	poptropica.wikia.com
+127.0.0.1	poptropicacheats.org
+127.0.0.1	poptropicaguru.com
+127.0.0.1	poptropicahelp.net
+127.0.0.1	poptropicahelpandideas.blogspot.com
+127.0.0.1	poptropicainsiders.com
+127.0.0.1	poptropicaischeats.blogspot.com
+127.0.0.1	poptropicanaawesomeness.wordpress.com
+127.0.0.1	poptropicarewind.wordpress.com
+127.0.0.1	poptropicasecrets.com
+127.0.0.1	poptropicasecretsandcheats.wordpress.com
+127.0.0.1	poptropicatips.com
+127.0.0.1	poptropicawithblane8.blogspot.com
+127.0.0.1	poptropicawithscaryplug.wordpress.com
+127.0.0.1	poptropicaworld.com
+127.0.0.1	portugal-ocde.com
+127.0.0.1	secretpop.weebly.com
+127.0.0.1	social-games.wonderhowto.com
+127.0.0.1	spb-velo.ru
+127.0.0.1	terrencepitr.wordpress.com
+127.0.0.1	texasgoodroads.org
+127.0.0.1	thepoptropicapackage.wordpress.com
+127.0.0.1	thewordgame.nl
+127.0.0.1	tomsplans.biz
+127.0.0.1	triviacheats.wikia.com
+127.0.0.1	wmz.cjschiatta.com
+127.0.0.1	wp2005poptropican.wordpress.com
+127.0.0.1	www.5173ww.com
+127.0.0.1	www.abcpuls.cz
+127.0.0.1	www.ad-young.com
+127.0.0.1	www.aguerra.com.br
+127.0.0.1	www.amazon.com
+127.0.0.1	www.artalfa.ru
+127.0.0.1	www.bbfelektro.sk
+127.0.0.1	www.bgobeyond.co.uk
+127.0.0.1	www.blurtit.com
+127.0.0.1	www.chaptercheats.com
+127.0.0.1	www.cheatbook.de
+127.0.0.1	www.cheathappens.com
+127.0.0.1	www.clarainglese.com
+127.0.0.1	www.eco-land.jp
+127.0.0.1	www.ggmania.com
+127.0.0.1	www.glennsrestaurant.com
+127.0.0.1	www.hacktea.com
+127.0.0.1	www.ieftinake.ro
+127.0.0.1	www.indexreality.cz
+127.0.0.1	www.jeprospecte.com
+127.0.0.1	www.mademan.com
+127.0.0.1	www.ofelio.com
+127.0.0.1	www.petra-toroid.ro
+127.0.0.1	www.poptrickia.net
+127.0.0.1	www.poptropica-cheats.com
+127.0.0.1	www.pousadapousoreal.com.br
+127.0.0.1	www.snowpanic.cz
+127.0.0.1	www.taste3.com
+127.0.0.1	www.texasmedical.com
+127.0.0.1	www.viagym.eu
+127.0.0.1	www.vzmd.si
+127.0.0.1	yanismarkin.ru
+127.0.0.1	zstykstys.cf

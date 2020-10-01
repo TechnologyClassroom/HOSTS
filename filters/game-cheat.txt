@@ -1,0 +1,56 @@
+##
+# Host Database # Updated 20160810
+#
+# The latest update can be found at
+# https://raw.githubusercontent.com/TechnologyClassroom/HOSTS/master/filters/game-cheat.txt
+#
+# Copyright © Michael McMahon 2011-2020. Except where otherwise specified, the
+# text on HOSTS by Michael McMahon is licensed under the Creative Commons
+# Attribution-ShareAlike License 4.0 (International) (CC-BY-SA 4.0).
+#
+# This list does not attempt to be complete and further lists are suggested.
+##
+
+# Games with cheats
+127.0.0.1	agarhack.org
+127.0.0.1	gamecliche.com
+127.0.0.1	hackedkingdomrush.com
+127.0.0.1	hackedmonster.com
+127.0.0.1	impossible-quiz.wikia.com
+127.0.0.1	minecraftforfreeonline.com
+127.0.0.1	minecraftforfreeonlinex.com
+127.0.0.1	mineshafter.info
+127.0.0.1	moviestarplanethackandcheats.com
+127.0.0.1	online-unblocked-games.weebly.com
+127.0.0.1	theflasharcade.weebly.com
+127.0.0.1	theimpossiblequiz-answers.com
+127.0.0.1	unblockedgamesbydylan.weebly.com
+127.0.0.1	unblockedhackedgames.com
+127.0.0.1	www.07k7k.com
+127.0.0.1	www.5minsgames.com
+127.0.0.1	www.arcadeprehacks.com
+127.0.0.1	www.enemy.com
+127.0.0.1	www.fillgame.com
+127.0.0.1	www.flashgamehacks.com
+127.0.0.1	www.freehackedgames.org
+127.0.0.1	www.gamekb.com
+127.0.0.1	www.gameswithcheats.com
+127.0.0.1	www.hackedarcadegames.com
+127.0.0.1	www.hackedfreegames.com
+127.0.0.1	www.hackedgamebase.com
+127.0.0.1	www.hackedgames.com
+127.0.0.1	www.hackedgames.guru
+127.0.0.1	www.hackedgames.net
+127.0.0.1	www.hackedgames.pw
+127.0.0.1	www.hackedgamesbase.com
+127.0.0.1	www.hackedgamesplay.com
+127.0.0.1	www.hackedonlinegames.com
+127.0.0.1	www.keyhacks.com
+127.0.0.1	www.myhackedgames.com
+127.0.0.1	www.onlinehackedgames.com
+127.0.0.1	www.playhacked.com
+127.0.0.1	www.prehackedgames.com
+127.0.0.1	www.prehackedgames.pw
+127.0.0.1	www.prehackshub.com
+127.0.0.1	www.ptdhacked.com
+127.0.0.1	www.unblockedgame77.com

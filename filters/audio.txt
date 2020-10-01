@@ -1,0 +1,30 @@
+##
+# Host Database # Updated 20160810
+#
+# The latest update can be found at
+# https://raw.githubusercontent.com/TechnologyClassroom/HOSTS/master/filters/audio.txt
+#
+# Copyright © Michael McMahon 2011-2020. Except where otherwise specified, the
+# text on HOSTS by Michael McMahon is licensed under the Creative Commons
+# Attribution-ShareAlike License 4.0 (International) (CC-BY-SA 4.0).
+#
+# This list does not attempt to be complete and further lists are suggested.
+##
+
+# Streaming Audio Sites
+127.0.0.1	corelinkradio.com
+127.0.0.1	di.fm
+127.0.0.1	download.radiorage.com
+127.0.0.1	live365.com
+127.0.0.1	media.iheart.com
+127.0.0.1	mypinkfriday.com
+127.0.0.1	pandora.com
+127.0.0.1	playlist.com
+127.0.0.1	spotify.com
+127.0.0.1	tunein.com
+127.0.0.1	www.audiolizer.com
+127.0.0.1	www.iheart.com
+127.0.0.1	www.jango.com
+127.0.0.1	www.mediabase.com
+127.0.0.1	www.pinkspage.com
+127.0.0.1	www.shoutcast.com

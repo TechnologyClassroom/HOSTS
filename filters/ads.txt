@@ -1,0 +1,89 @@
+##
+# Host Database # Updated 20160810
+#
+# The latest update can be found at
+# https://raw.githubusercontent.com/TechnologyClassroom/HOSTS/master/filters/ads.txt
+#
+# Copyright © Michael McMahon 2011-2020. Except where otherwise specified, the
+# text on HOSTS by Michael McMahon is licensed under the Creative Commons
+# Attribution-ShareAlike License 4.0 (International) (CC-BY-SA 4.0).
+#
+# This list does not attempt to be complete and further lists are suggested.
+##
+
+# Ads
+127.0.0.1	*.cpmrockz.com
+127.0.0.1	10283-767.ampxchange.com
+127.0.0.1	ads.ad4game.com
+127.0.0.1	ads.lfstmedia.com
+127.0.0.1	app.kabbage.com
+127.0.0.1	arcadeboat.com
+127.0.0.1	arcadecore.com
+127.0.0.1	arcadelift.com
+127.0.0.1	bigproducts.info
+127.0.0.1	bing-rewards.kouponmania.com
+127.0.0.1	buyrottr.com
+127.0.0.1	cartageous.com
+127.0.0.1	cldlr.com
+127.0.0.1	click.blendernetworks.com
+127.0.0.1	click.clktraker.com
+127.0.0.1	complemex.com
+127.0.0.1	cpmrockz.com
+127.0.0.1	discoverica.com
+127.0.0.1	exmox.xomxe.com
+127.0.0.1	exploregadgets.net
+127.0.0.1	eztrckr.com
+127.0.0.1	gamerhippo.com
+127.0.0.1	get.smarter.com
+127.0.0.1	giftlix.com
+127.0.0.1	googleads.g.doubleclick.net
+127.0.0.1	goto.fumotrax.com
+127.0.0.1	ie.gamespipe.com
+127.0.0.1	ie.gamespipe.net
+127.0.0.1	internetinfluences.com
+127.0.0.1	media.onads.com
+127.0.0.1	mediabak.com
+127.0.0.1	mfcdn.s3.amazonaws.com
+127.0.0.1	onclickads.net
+127.0.0.1	opinionmatters.club
+127.0.0.1	rpc.trafficflux.com
+127.0.0.1	s.admtpmp124.com
+127.0.0.1	searchsmarts.net
+127.0.0.1	securegg.biotrust.com
+127.0.0.1	server.cpmstar.com
+127.0.0.1	smokik.com
+127.0.0.1	spinandwin.com-nav.net
+127.0.0.1	sponsoredweblinks.com
+127.0.0.1	track.fumotrax.com
+127.0.0.1	tracking.crobo.com
+127.0.0.1	trk14.info
+127.0.0.1	udmserve.net
+127.0.0.1	upliftgames.com
+127.0.0.1	us.when.com
+127.0.0.1	web.adblade.com
+127.0.0.1	www.adforgames.com
+127.0.0.1	www.advertisegame.com
+127.0.0.1	www.blkget5.com
+127.0.0.1	www.cgstatic.info
+127.0.0.1	www.coupons.com
+127.0.0.1	www.dailycoupondeal.com
+127.0.0.1	www.epicgameads.com
+127.0.0.1	www.gamefuse.com
+127.0.0.1	www.gamerhippo.com
+127.0.0.1	www.inboxdollars.com
+127.0.0.1	www.kabbage.com
+127.0.0.1	www.lifescript.com
+127.0.0.1	www.mammothshopper.com
+127.0.0.1	www.offergalaxy.com
+127.0.0.1	www.research.net
+127.0.0.1	www.salesforce.com
+127.0.0.1	www.searchdeliver.com
+127.0.0.1	www.searchlistings.org
+127.0.0.1	www.sponsoredresults.org
+127.0.0.1	www.sq2trk2.com
+127.0.0.1	www.thermacare.com
+127.0.0.1	www.vindale.com
+127.0.0.1	www.web.com
+127.0.0.1	www.zulily.com
+127.0.0.1	yourchoicegames.com
+127.0.0.1	zfgrpyyu.com

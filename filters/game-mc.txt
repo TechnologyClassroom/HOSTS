@@ -1,0 +1,57 @@
+##
+# Host Database # Updated 20160810
+#
+# The latest update can be found at
+# https://raw.githubusercontent.com/TechnologyClassroom/HOSTS/master/filters/game-mc.txt
+#
+# Copyright © Michael McMahon 2011-2020. Except where otherwise specified, the
+# text on HOSTS by Michael McMahon is licensed under the Creative Commons
+# Attribution-ShareAlike License 4.0 (International) (CC-BY-SA 4.0).
+#
+# This list does not attempt to be complete and further lists are suggested.
+##
+
+# Minecraft Sites
+127.0.0.1	*.minecraft.net
+127.0.0.1	23.21.227.220
+127.0.0.1	account.mojang.com
+127.0.0.1	assets.minecraft.net
+127.0.0.1	authserver.mojang.com # THIS blocks minecraft from logging in.  If minecraft is already logged in, it can play offline.
+127.0.0.1	help.mojang.com
+127.0.0.1	launch.minecraft.net
+127.0.0.1	launcher.mojang.com
+127.0.0.1	login.minecraft.net
+127.0.0.1	mcupdate.tumblr.com
+127.0.0.1	media.mojang.com
+127.0.0.1	minecraft.gamepedia.com
+127.0.0.1	minecraft.net
+127.0.0.1	minecraft.novaskin.me
+127.0.0.1	minecraftcommand.science
+127.0.0.1	minecraftgameonline.com
+127.0.0.1	minecraftskins.com
+127.0.0.1	minecraftzoxy.club
+127.0.0.1	minenoob.weebly.com
+127.0.0.1	mojang.com
+127.0.0.1	playminicraft.com
+127.0.0.1	resourcepack.net
+127.0.0.1	session.minecraft.net
+127.0.0.1	skindex.com
+127.0.0.1	www.1fungames.com
+127.0.0.1	www.mincraftdl.com
+127.0.0.1	www.minecraftforum.net
+127.0.0.1	www.minecraftinfo.com
+127.0.0.1	www.minecraftinformation.com
+127.0.0.1	www.minecraftmods.com
+127.0.0.1	www.minecraftopia.com
+127.0.0.1	www.minecraftseeds.co
+127.0.0.1	www.minecraftskins.com
+127.0.0.1	www.minecrafttexturepacks.com
+127.0.0.1	www.minecraftworldmap.com
+127.0.0.1	www.mineplex.com
+127.0.0.1	www.needcoolshoes.com
+127.0.0.1	www.ofreegames.com
+127.0.0.1	www.planetminecraft.com
+127.0.0.1	www.skindex.com
+127.0.0.1	www.skindexminecraft.com
+127.0.0.1	www.ubermc.net
+127.0.0.1	www.wearmc.com

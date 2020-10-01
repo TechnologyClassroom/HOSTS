@@ -1,0 +1,88 @@
+##
+# Host Database # Updated 20160810
+#
+# The latest update can be found at
+# https://raw.githubusercontent.com/TechnologyClassroom/HOSTS/master/filters/adult.txt
+#
+# Copyright © Michael McMahon 2011-2020. Except where otherwise specified, the
+# text on HOSTS by Michael McMahon is licensed under the Creative Commons
+# Attribution-ShareAlike License 4.0 (International) (CC-BY-SA 4.0).
+#
+# This list does not attempt to be complete and further lists are suggested.
+##
+
+# Inappropriate
+#Search "Sex games"
+127.0.0.1	adult-sex-games.com
+127.0.0.1	adultfriendfinder.com
+127.0.0.1	agar.bio
+127.0.0.1	agar.io.biz.tr
+127.0.0.1	agario.biz
+127.0.0.1	agario.biz.tr
+127.0.0.1	agario.ovh
+127.0.0.1	agariohack.com
+127.0.0.1	agariohack.info
+127.0.0.1	agariomods.com
+127.0.0.1	agariotool.com
+127.0.0.1	agarz.com
+127.0.0.1	beer-co.ca
+127.0.0.1	bongacams.com
+127.0.0.1	bot.jlynx.net
+127.0.0.1	broswerfailure.xyz
+127.0.0.1	chaturbate.com
+127.0.0.1	corn-hub.blogspot.com
+127.0.0.1	deeznutshardcore.com
+127.0.0.1	donowbrownwow.com
+127.0.0.1	forum.dancehallreggae.com
+127.0.0.1	free-sex-locator.com
+127.0.0.1	free-xxx-games.com
+127.0.0.1	free.aultxcamz.com
+127.0.0.1	gamcore.com
+127.0.0.1	hereforadollar.com
+127.0.0.1	howtomakeyourboobsgrowbigger.com
+127.0.0.1	ink361.com
+127.0.0.1	iridiumsearch.com
+127.0.0.1	lengygames.com
+127.0.0.1	loadfasterplease.com
+127.0.0.1	lp.baboom.audio
+127.0.0.1	massivecomputer.com
+127.0.0.1	multiplayersex.en
+127.0.0.1	myrewardfee.com
+127.0.0.1	onlinepctuner.com
+127.0.0.1	pubted.com
+127.0.0.1	secure.blackwetandluscious
+127.0.0.1	supersexykernels.blogspot.com
+127.0.0.1	thechive.com
+127.0.0.1	videopuginupdates.net
+127.0.0.1	winsecurity247.com
+127.0.0.1	www.3dgirlz2.com
+127.0.0.1	www.adnetworkperformance.com
+127.0.0.1	www.agario.com.tr
+127.0.0.1	www.ashleymadison.com
+127.0.0.1	www.bing.com # Allows pornographic video streaming through the search engine
+127.0.0.1	www.camra.org.uk
+127.0.0.1	www.deeznuts.com
+127.0.0.1	www.dirtybit.com
+127.0.0.1	www.fagario.com
+127.0.0.1	www.fancypants.com
+127.0.0.1	www.fastupdater.com
+127.0.0.1	www.funny-games.biz
+127.0.0.1	www.hotbestporn.com
+127.0.0.1	www.impericon.com
+127.0.0.1	www.jojobaa.net
+127.0.0.1	www.massfirearmsschool.com
+127.0.0.1	www.my3girlfriends.com
+127.0.0.1	www.piratejessica.com
+127.0.0.1	www.pornhub.com
+127.0.0.1	www.redtube.com
+127.0.0.1	www.slutroulette.com
+127.0.0.1	www.surveysandpromotionsonline.com
+127.0.0.1	www.theagario.com
+127.0.0.1	www.thefinestcasino.com
+127.0.0.1	www.tradeadexchange.com
+127.0.0.1	www.xnxx.com
+127.0.0.1	www.xvideos.com
+127.0.0.1	www.yieldtraffic.com
+127.0.0.1	www.youswear.com
+127.0.0.1	www.zepetto.com
+127.0.0.1	youlendir.me

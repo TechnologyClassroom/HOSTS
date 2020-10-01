@@ -1,0 +1,40 @@
+##
+# Host Database # Updated 20160810
+#
+# The latest update can be found at
+# https://raw.githubusercontent.com/TechnologyClassroom/HOSTS/master/filters/game-break.txt
+#
+# Copyright © Michael McMahon 2011-2020. Except where otherwise specified, the
+# text on HOSTS by Michael McMahon is licensed under the Creative Commons
+# Attribution-ShareAlike License 4.0 (International) (CC-BY-SA 4.0).
+#
+# This list does not attempt to be complete and further lists are suggested.
+##
+
+# Games labeled as Keyboard / Mouse Breakers
+# Search Sprinter
+127.0.0.1	games.artie.com
+127.0.0.1	games.sify.com
+127.0.0.1	gamingwonderland.myway.com
+127.0.0.1	sprintergame.org
+127.0.0.1	www.337.com
+127.0.0.1	www.acid-play.com
+127.0.0.1	www.dongames.com
+127.0.0.1	www.flexbg.net
+127.0.0.1	www.friall.com
+127.0.0.1	www.funnygames.co.id
+127.0.0.1	www.gamedesign.jp
+127.0.0.1	www.games.co.id
+127.0.0.1	www.games.co.uk
+127.0.0.1	www.geewa.com
+127.0.0.1	www.goodlife.com.ng
+127.0.0.1	www.learn4good.com
+127.0.0.1	www.mousebreaker.co
+127.0.0.1	www.ouchh.com
+127.0.0.1	www.oyunlar1.com
+127.0.0.1	www.qwop.me
+127.0.0.1	www.rocketoyun.com
+127.0.0.1	www.roundgames.com
+127.0.0.1	www.rungames1.com
+127.0.0.1	www.sprintergame.pw
+127.0.0.1	www.vuongquocgame.com

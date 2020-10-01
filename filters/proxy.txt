@@ -1,0 +1,18 @@
+##
+# Host Database # Updated 20160810
+#
+# The latest update can be found at
+# https://raw.githubusercontent.com/TechnologyClassroom/HOSTS/master/filters/proxy.txt
+#
+# Copyright © Michael McMahon 2011-2020. Except where otherwise specified, the
+# text on HOSTS by Michael McMahon is licensed under the Creative Commons
+# Attribution-ShareAlike License 4.0 (International) (CC-BY-SA 4.0).
+#
+# This list does not attempt to be complete and further lists are suggested.
+##
+
+# Proxy Avoidance
+127.0.0.1	hola.org
+127.0.0.1	www.appsverse.com #FB Proxy
+127.0.0.1	www.seektoexplore.com
+127.0.0.1	webcache.googleusercontent.com # This may break things...

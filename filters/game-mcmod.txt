@@ -1,0 +1,32 @@
+##
+# Host Database # Updated 20160810
+#
+# The latest update can be found at
+# https://raw.githubusercontent.com/TechnologyClassroom/HOSTS/master/filters/game-mcmod.txt
+#
+# Copyright © Michael McMahon 2011-2020. Except where otherwise specified, the
+# text on HOSTS by Michael McMahon is licensed under the Creative Commons
+# Attribution-ShareAlike License 4.0 (International) (CC-BY-SA 4.0).
+#
+# This list does not attempt to be complete and further lists are suggested.
+##
+
+# Minecraft Hacks
+127.0.0.1	www.minecrafthackedclients.com
+127.0.0.1	www.skydaz.com
+127.0.0.1	www.wizardhax.com
+
+
+
+# Minecraft Modpacks (Adds nukes etc.)
+127.0.0.1	feed-the-beast.com
+127.0.0.1	files.minecraftforge.net
+127.0.0.1	topofthemods.com
+127.0.0.1	voidswrat.com
+127.0.0.1	www.atlauncher.com
+127.0.0.1	www.curse.com
+127.0.0.1	www.feed-the-beast.com
+127.0.0.1	www.killerchief.net
+127.0.0.1	www.minecraftprojects.net
+127.0.0.1	www.punchwood.com
+127.0.0.1	www.technicpack.net

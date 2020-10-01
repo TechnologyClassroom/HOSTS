@@ -1,0 +1,63 @@
+##
+# Host Database # Updated 20160810
+#
+# The latest update can be found at
+# https://raw.githubusercontent.com/TechnologyClassroom/HOSTS/master/filters/gossip.txt
+#
+# Copyright © Michael McMahon 2011-2020. Except where otherwise specified, the
+# text on HOSTS by Michael McMahon is licensed under the Creative Commons
+# Attribution-ShareAlike License 4.0 (International) (CC-BY-SA 4.0).
+#
+# This list does not attempt to be complete and further lists are suggested.
+##
+
+# Gossip Sites
+127.0.0.1	allnight.com
+127.0.0.1	atlantablackstar.com
+127.0.0.1	blindgossip.com
+127.0.0.1	bossip.com
+127.0.0.1	bossip.files.wordpress.com
+127.0.0.1	cn.mediamass.net
+127.0.0.1	de.mediamass.net
+127.0.0.1	en.mediamass.net
+127.0.0.1	es.mediamass.net
+127.0.0.1	fr.mediamass.net
+127.0.0.1	gossiponthis.com
+127.0.0.1	hellobeautiful.com
+127.0.0.1	hollywoodlife.com
+127.0.0.1	it.mediamass.net
+127.0.0.1	jezebel.com
+127.0.0.1	madamenoire.com
+127.0.0.1	mediamass.net
+127.0.0.1	mediatakeout.com
+127.0.0.1	okmagazine.com
+127.0.0.1	paid.outbrain.com
+127.0.0.1	perezhilton.com
+127.0.0.1	pt.mediamass.net
+127.0.0.1	rapdose.com
+127.0.0.1	styleblazer.com
+127.0.0.1	themuse.jezebel.com
+127.0.0.1	thyblackman.com
+127.0.0.1	www.celebrity-gossip.net
+127.0.0.1	www.celebritynetworth.com
+127.0.0.1	www.cosmopolitan.com
+127.0.0.1	www.designtrend.com
+127.0.0.1	www.eonline.com
+127.0.0.1	www.etonline.com
+127.0.0.1	www.examiner.com
+127.0.0.1	www.fansshare.com
+127.0.0.1	www.gossipcop.com
+127.0.0.1	www.justjaredjr.com
+127.0.0.1	www.lifeandstylemag.com
+127.0.0.1	www.m-magazine.com
+127.0.0.1	www.nationalenquirer.com
+127.0.0.1	www.sheknows.com
+127.0.0.1	www.shopgossip.com
+127.0.0.1	www.sweetyhigh.com
+127.0.0.1	www.thehollywoodgossip.com
+127.0.0.1	www.therichest.com
+127.0.0.1	www.theroot.com
+127.0.0.1	www.usmagazine.com
+127.0.0.1	www.tmz.com
+127.0.0.1	www.vice.com
+127.0.0.1	www.yourdailydish.com

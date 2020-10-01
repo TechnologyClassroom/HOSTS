@@ -1,0 +1,96 @@
+##
+# Host Database # Updated 20160810
+#
+# The latest update can be found at
+# https://raw.githubusercontent.com/TechnologyClassroom/HOSTS/master/filters/creepy.txt
+#
+# Copyright © Michael McMahon 2011-2020. Except where otherwise specified, the
+# text on HOSTS by Michael McMahon is licensed under the Creative Commons
+# Attribution-ShareAlike License 4.0 (International) (CC-BY-SA 4.0).
+#
+# This list does not attempt to be complete and further lists are suggested.
+##
+
+# Creepy (FNAF, Sonic.exe, Slenderman, etc.)
+127.0.0.1	2a20-downloads.phpnuke.org
+127.0.0.1	abigailthefox.deviantart.com
+127.0.0.1	artsicat13.deviantart.com
+127.0.0.1	chromeboxx.weebly.com
+127.0.0.1	creepypasta.wikia.com
+127.0.0.1	fivenightsatfreddysfull.com
+127.0.0.1	five-nights-at-freddys.en.malavida.com
+127.0.0.1	five-nights-at-freddys.en.softonic.com
+127.0.0.1	freddy-fazbears-pizza.wikia.com
+127.0.0.1	freehorrorgames.net
+127.0.0.1	gamejolt.com
+127.0.0.1	gamesdreams.com
+127.0.0.1	global-shared-files-13.softonic.com
+127.0.0.1	haunt-the-real-slender-game.en.softonic.com
+127.0.0.1	hazard-the-porgoyle.deviantart.com
+127.0.0.1	inualet.deviantart.com
+127.0.0.1	johnny-hedgewolf.deviantart.com
+127.0.0.1	kill-soni.deviantart.com
+127.0.0.1	mad.com
+127.0.0.1	masterggg.deviantart.com
+127.0.0.1	mrsaeba-san.deviantart.com
+127.0.0.1	pearlthehedgehog64.deviantart.com
+127.0.0.1	play.mob.org
+127.0.0.1	scary.friv.asia
+127.0.0.1	slender-mac.en.softonic.com
+127.0.0.1	slender-man.en.softonic.com
+127.0.0.1	slender.en.softonic.com
+127.0.0.1	slendergame.com
+127.0.0.1	slenderman.en.softonic.com
+127.0.0.1	slendermangamez.org
+127.0.0.1	slendermans-shadow-7th-street.soft32.com
+127.0.0.1	slendermans-shadow-elementary.en.softonic.com
+127.0.0.1	slendermans-shadow-hospice.en.softonic.com
+127.0.0.1	slendermans-shadow-mansion.en.softonic.com
+127.0.0.1	slendermans-shadow-sanatorium.en.softonic.com
+127.0.0.1	slenders-woods.en.softonic.com
+127.0.0.1	sonic-exe-fans.deviantart.com
+127.0.0.1	theslenderman.wikia.com
+127.0.0.1	thestrandjacksonville.com
+127.0.0.1	thewickedwordsmith.deviantart.com
+127.0.0.1	www.123bee.com
+127.0.0.1	www.365escape.com
+127.0.0.1	www.666gamer.com
+127.0.0.1	www.crazygames.com
+127.0.0.1	www.crazyscarygames.com
+127.0.0.1	www.darkhorrorgames.com
+127.0.0.1	www.designntrend.com
+127.0.0.1	www.desura.com
+127.0.0.1	www.everythingscary.com
+127.0.0.1	www.exegames.co.kr
+127.0.0.1	www.fugly.com
+127.0.0.1	www.gamehackstudios.com
+127.0.0.1	www.gameshed.com
+127.0.0.1	www.haunt-slendergame.com
+127.0.0.1	www.hideandgokill.wikia.com
+127.0.0.1	www.indiedb.com
+127.0.0.1	www.inkagames.com
+127.0.0.1	www.letsplaysega.com
+127.0.0.1	www.maniacworld.com
+127.0.0.1	www.pcgamesn.com
+127.0.0.1	www.playfg.com
+127.0.0.1	www.playscarymazegame.net
+127.0.0.1	www.playwithdeath.com
+127.0.0.1	www.redbubble.com
+127.0.0.1	www.scaryforkids.com
+127.0.0.1	www.scarygames247.com
+127.0.0.1	www.scarygamesnow.com
+127.0.0.1	www.scarygirl.com
+127.0.0.1	www.scarymazegame5.net
+127.0.0.1	www.scarywebgames.com
+127.0.0.1	www.silvergames.com
+127.0.0.1	www.slenderarrival.com
+127.0.0.1	www.slendermangamez.org
+127.0.0.1	www.slendermanlostchildren.com
+127.0.0.1	www.slendermansshadow.com
+127.0.0.1	www.smwcentral.net
+127.0.0.1	www.sploder.com
+127.0.0.1	www.ssega.com
+127.0.0.1	www.thebitbag.com
+127.0.0.1	www.twinfinite.net
+127.0.0.1	www.uscary.com
+127.0.0.1	www.winterrowd.com

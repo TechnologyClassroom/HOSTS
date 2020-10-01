@@ -1,0 +1,82 @@
+##
+# Host Database # Updated 20160810
+#
+# The latest update can be found at
+# https://raw.githubusercontent.com/TechnologyClassroom/HOSTS/master/filters/video.txt
+#
+# Copyright © Michael McMahon 2011-2020. Except where otherwise specified, the
+# text on HOSTS by Michael McMahon is licensed under the Creative Commons
+# Attribution-ShareAlike License 4.0 (International) (CC-BY-SA 4.0).
+#
+# This list does not attempt to be complete and further lists are suggested.
+##
+
+# Streaming Video Sites
+127.0.0.1	abc.go.com
+127.0.0.1	achievementhunter.roosterteeth.com
+127.0.0.1	av.vimeo.com
+127.0.0.1	bigcontact.com
+127.0.0.1	blinkx.com
+127.0.0.1	break.com
+127.0.0.1	broadbandsports.com
+127.0.0.1	clipshack.com
+127.0.0.1	collegehumor.com
+127.0.0.1	crackle.com
+127.0.0.1	current.com
+127.0.0.1	dailymotion.com
+127.0.0.1	devilducky.com
+127.0.0.1	documentarystorm
+127.0.0.1	funhaus.roosterteeth.com
+127.0.0.1	gfycat.com
+127.0.0.1	hangouts.google.com
+127.0.0.1	ifilm.com
+127.0.0.1	ifunny.co
+127.0.0.1	ilividlive.byinmind.com
+127.0.0.1	m.youtube.com
+127.0.0.1	museum.tv
+127.0.0.1	nbc.com
+127.0.0.1	open-video.org
+127.0.0.1	ourmedia.org
+127.0.0.1	phanfare.com
+127.0.0.1	putlocker.is # Illegal and full of malware popups
+127.0.0.1	revver.com
+127.0.0.1	roosterteeth.com
+127.0.0.1	screen.yahoo.com
+127.0.0.1	screwattack.roosterteeth.com
+127.0.0.1	sevenload.com
+127.0.0.1	speedytv.com
+127.0.0.1	stickam.com
+127.0.0.1	streetfire.net
+127.0.0.1	stupidvideos.com
+127.0.0.1	surround.verizon.com
+127.0.0.1	thatvideosite.com
+127.0.0.1	theknow.roosterteeth.com
+127.0.0.1	trueveo.com
+127.0.0.1	tvduck.com
+127.0.0.1	tvline.com
+127.0.0.1	ustream.tv
+127.0.0.1	videobomb.com
+127.0.0.1	videosift.com
+127.0.0.1	vids.myspace.com
+127.0.0.1	vimeo.com
+#127.0.0.1	vine.co
+127.0.0.1	www.abc.com
+127.0.0.1	www.ddotomen.com
+127.0.0.1	www.hulu.com
+127.0.0.1	www.mavitv.com
+127.0.0.1	www.metacafe.com
+127.0.0.1	www.mirror.co.uk
+127.0.0.1	www.movietubeonline.net
+127.0.0.1	www.mtv.co.uk
+127.0.0.1	www.oploverz.net
+127.0.0.1	www.pewdiepie.com
+127.0.0.1	www.reddube.com
+127.0.0.1	www.roosterteeth.com
+127.0.0.1	www.vagalume.com.br
+127.0.0.1	www.veoh.com
+127.0.0.1	www.vevo.com
+127.0.0.1	www.viz.com
+127.0.0.1	www.worldstarhiphop.com
+127.0.0.1	www.youtube.com
+127.0.0.1	xfinity.comcast.net
+127.0.0.1	youtube.com
