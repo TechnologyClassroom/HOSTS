@@ -1,10 +1,10 @@
 ##
-# Host Database # Updated 20160810
+# Host Database # Updated 20210430
 #
 # The latest update can be found at
 # https://raw.githubusercontent.com/TechnologyClassroom/HOSTS/master/filters/spamsec.txt
 #
-# Copyright © Michael McMahon 2011-2020. Except where otherwise specified, the
+# Copyright © Michael McMahon 2011-2021. Except where otherwise specified, the
 # text on HOSTS by Michael McMahon is licensed under the Creative Commons
 # Attribution-ShareAlike License 4.0 (International) (CC-BY-SA 4.0).
 #
@@ -45,9 +45,11 @@
 127.0.0.1	bd.summit.net # Picture with embedded Malware
 127.0.0.1	besttechheadlinenow.com
 127.0.0.1	blackra1n.com
+127.0.0.1	blog.eduelects.com
 127.0.0.1	bot.jlynx.net
 127.0.0.1	broswerfailure.xyz
 127.0.0.1	cdn.filmon-ads.com
+127.0.0.1	cdn.mirror-codes.net
 127.0.0.1	cgurrkser.com
 127.0.0.1	chrome-my.updatebrowse.com
 127.0.0.1	click.sportsreviews.com
@@ -107,6 +109,7 @@
 127.0.0.1	monitorthecomputerstatus.com
 127.0.0.1	myrewardfee.com
 127.0.0.1	myway.com
+127.0.0.1	news.thaprior.net
 127.0.0.1	np.myway.com
 127.0.0.1	okdownloads.com
 127.0.0.1	onlinepctuner.com
@@ -132,6 +135,7 @@
 127.0.0.1	softwareupdaterlp.com
 127.0.0.1	sponsor.adverstitial.com
 127.0.0.1	srv23.api-performanc.com
+127.0.0.1	status.sublineover.net
 127.0.0.1	superfolder.net
 127.0.0.1	supergiftland.guuz.info
 127.0.0.1	supersmashflash3x.com # leads to malware
